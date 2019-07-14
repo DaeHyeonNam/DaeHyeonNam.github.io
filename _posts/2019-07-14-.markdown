@@ -1,7 +1,6 @@
 ---
 layout: post
 ---
-
 <html>
 <head>
 	<title></title>
@@ -18,11 +17,12 @@ layout: post
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2013.03 -&nbsp;2016.02</span></font><br />
 <span style="font-size: 20px;"><strong><font color="#a9a9a9">HaeUnDae High School</font></strong><font color="#a9a9a9">, Busan, Korea</font></span></p>
 
+<p align="left">&nbsp;</p>
+
 <p align="left"><font color="#696969"><span style="font-size: 36px;"><b>Research Experience</b></span></font></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2016.06&nbsp;- 2016.12</span></font><br />
-<span style="font-size:20px;"><span style="color:#A9A9A9;"><strong>Intern,&nbsp;<span style="font-family: Roboto, &quot;Helvetica Neue&quot;, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);">High-performance Visual Computing Lab(</span></strong></span><strong><span style="font-family: Roboto, &quot;Helvetica Neue&quot;, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);"><a href="http://hvcl.unist.ac.kr/"><span style="color:#9999ff;">HVCL</span></a></span></strong><span style="color:#A9A9A9;"><strong><span style="font-family: Roboto, &quot;Helvetica Neue&quot;, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);">) @ UNIST</span></strong></span></span><span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);">&nbsp;</span></span><br />
-&nbsp;</p>
+<span style="font-size:20px;"><span style="color:#A9A9A9;"><strong>Intern,&nbsp;<span style="font-family: Roboto, &quot;Helvetica Neue&quot;, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);">High-performance Visual Computing Lab(</span></strong></span><strong><span style="font-family: Roboto, &quot;Helvetica Neue&quot;, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);"><a href="http://hvcl.unist.ac.kr/"><span style="color:#9999ff;">HVCL</span></a></span></strong><span style="color:#A9A9A9;"><strong><span style="font-family: Roboto, &quot;Helvetica Neue&quot;, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);">) @ UNIST</span></strong></span></span><span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);">&nbsp;</span></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2019.03&nbsp;- 2019.06</span></font><br />
 <span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><b>UIRP, Brain Computer Interface Lab(</b></span><strong><a href="http://bci.unist.ac.kr/"><span style="color:#9999ff;">BCI</span></a><span style="color:#A9A9A9;">) @ UNIST</span></strong></span><br />
