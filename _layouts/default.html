@@ -39,7 +39,7 @@
         {% for account in site.data.social %}
 					<li>
 						<!--"{% include relative-src.html src=account.link %}"-->
-						<a {% if account.new_window %}target="_blank"{% endif %} href="https://www.facebook.com/daehyeon.nam.92"</a> {% if account.social_icon %}class="icon fa-{{ account.social_icon | slugify }}"{% endif %}>
+						<a {% if account.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=https://www.facebook.com/daehyeon.nam.92 %}"</a> {% if account.social_icon %}class="icon fa-{{ account.social_icon | slugify }}"{% endif %}>
               <span class="label">{{ account.name }}</span>
 						</a>
 					</li>
