@@ -2,7 +2,10 @@
 layout: post
 ---
 
-# Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.
+<h2><span style="color: #999999;"><strong>Education </strong></span></h2>
+<p>2016.03 - Current</p>
+<p>B.S. candidate in <span style="color: #808000;"><strong><a style="color: #808000;" href="http://ece.unist.ac.kr/">Electrical and Computer Engineering</a></strong>&nbsp;</span></p>
+<p><span style="color: #808000;"><strong>UNIST</strong></span>(Ulsan National Institute of Science and Technology), Ulsan, Korea&nbsp;</p>
 
 Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.
 
