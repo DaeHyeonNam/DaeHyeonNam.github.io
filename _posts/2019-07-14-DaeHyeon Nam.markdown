@@ -23,7 +23,7 @@ text-align:left;line-height:18.0pt;mso-pagination:widow-orphan;mso-outline-level
 2;background:white;text-autospace:ideograph-numeric ideograph-other;vertical-align:
 baseline;word-break:keep-all'><span lang=EN-US style='font-size:12.0pt;
 font-family:"Source Sans Pro",sans-serif;mso-fareast-font-family:±¼¸²;mso-bidi-font-family:
-±¼¸²;color:#A2A2A2;mso-font-kerning:0pt'>2016.03 &#8211; Current<o:p></o:p></span></p>
+±¼¸²;color:#A2A2A2;mso-font-kerning:0pt'>2016.03 &#8211; Currrent<o:p></o:p></span></p>
 
 <p class=MsoNormal align=left style='margin-bottom:0cm;margin-bottom:.0001pt;
 text-align:left;line-height:18.0pt;mso-pagination:widow-orphan;mso-outline-level:
