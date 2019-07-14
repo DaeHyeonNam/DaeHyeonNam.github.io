@@ -15,7 +15,7 @@ layout: post
 <span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>B.S. candidate in</strong>&nbsp;</span><strong><a href="http://ece.unist.ac.kr/"><span style="color:#9999ff;">Electrical and Computer Engineering</span></a><span style="color:#9999ff;">&nbsp;</span></strong></span><br />
 <span style="font-size: 20px;"><span style="color:#9999ff;"><strong>UNIST</strong></span><span style="color: rgb(169, 169, 169);"><strong>(Ulsan National Institute of Science and Technology)</strong>, Ulsan, Korea</span></span></p>
 
-<p align="left">&nbsp;</p>
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2013.03 ~ 2016.02</span></font><br />
+<span style="font-size: 20px;"><strong><font color="#a9a9a9">HaeUnDae High School</font></strong><font color="#a9a9a9">, Busan, Korea</font></span></p>
 </body>
 </html>
-
