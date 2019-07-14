@@ -29,8 +29,14 @@ layout: post
 
 <p align="left"><strong><span style="color: rgb(105, 105, 105);"><span style="font-size: 36px;">Work Experience</span></span></strong></p>
 
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.09&nbsp;- 2017.12</span></font><br />
+<span style="font-size: 20px;"><strong><span style="color: rgb(105, 105, 105);">Teaching Assistant, Object Oriented Programming Course @ UNIST</span></strong></span></p>
+
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.12&nbsp;- 2018.03</span></font><br />
 <span style="font-size: 20px;"><strong style=""><span style="color:#696969;">Kitchen Job, </span><a href="http://whic.mofa.go.kr/eng/"><span style="color:#9999ff;">Working Holiday</span></a></strong></span><span style="font-size: 20px;"><strong style=""><font color="#9999ff">&nbsp;</font><span style="color:#696969;">in Sydney, Australia</span></strong></span></p>
+
+<p align="left"><span style="font-size: 20px; color: rgb(169, 169, 169);">2018.09&nbsp;- 2018.12</span><br />
+<span style="font-size: 20px;"><strong><span style="color: rgb(105, 105, 105);">Teaching Assistant, Data Structure Course&nbsp;</span></strong></span><span style="font-size: 20px;"><strong><span style="color:#696969;">@ UNIST</span></strong></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2019.03 - 2019.06</span></font><br />
 <span style="font-size: 20px;"><strong><span style="color:#696969;">Intern,</span><span style="color:#808080;">&nbsp;</span><a href="http://alphaprime.co.kr"><span style="color: rgb(153, 153, 255);">AlphaPrime</span></a><span style="color:#696969;">&nbsp;(IT Financial&nbsp;Company)</span></strong></span></p>
@@ -51,16 +57,16 @@ layout: post
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.11</span></font><br />
 <span style="color:#696969;"><span style="font-size: 20px;"><strong>The Best&nbsp;Prize, UNIST X Naver D2SF X Like Lion Hackathon</strong></span></span></p>
 
-<span style="color:#696969;"><span style="font-size: 20px;"><strong>Semester Award(학기 포상)</strong></span></span><br />
+<p><span style="color:#696969;"><span style="font-size: 20px;">​</span><b style="font-size: 20px; color: rgb(169, 169, 169);">Semester Award(학기 포상)</b></span><br />
 <span style="font-size:17px;">&nbsp;-&nbsp;UNIST 2017 1st&nbsp;Semester Award<br />
 &nbsp;-&nbsp;UNIST 2017&nbsp;2nd Semester Award<br />
-&nbsp;-&nbsp;UNIST 2018&nbsp;2nd Semester Award</span>
+&nbsp;-&nbsp;UNIST 2018&nbsp;2nd Semester Award</span></p>
 
 <p>&nbsp;</p>
 
 <p align="left"><strong><span style="color: rgb(105, 105, 105);"><span style="font-size: 36px;">Campus Activities</span></span></strong></p>
 
-<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.03&nbsp;- 2017.12</span></font><br />
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.03&nbsp;- 2018.02</span></font><br />
 <span style="font-size: 20px;"><b><span style="color:#696969;">Manager,<span style="font-size: 20px;"><b> </b></span></span><a href="https://www.facebook.com/groups/326115774135063/" style="color: rgb(153, 153, 255);">Memory</a><span style="color:#808080;">&nbsp;</span><span style="color:#696969;">(Photograph &amp; Travel Group) @ UNIST</span></b></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.09&nbsp;- 2019.02</span></font><br />
@@ -72,10 +78,11 @@ layout: post
 <p align="left">&nbsp;</p>
 
 <div>&nbsp;</div>
+
+<p><font color="#a9a9a9"><span style="font-size: 20px;">2017.12&nbsp;- 2018.03</span></font><br />
+<span style="font-size: 20px;"><strong><span style="color: rgb(105, 105, 105);">Kitchen Job,&nbsp;</span><a href="http://whic.mofa.go.kr/eng/"><span style="color: rgb(153, 153, 255);">Working Holiday</span></a></strong></span><span style="font-size: 20px;"><strong><font color="#9999ff">&nbsp;</font><span style="color: rgb(105, 105, 105);">in Sydney, Australia</span></strong></span></p>
+
+<p>&nbsp;</p>
 </body>
 </html>
-
-
-
-
 
