@@ -13,7 +13,7 @@ layout: post
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2016.03 ~ Current</span></font><br />
 <span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>B.S. candidate in</strong>&nbsp;</span><strong><a href="http://ece.unist.ac.kr/"><span style="color:#9999ff;">Electrical and Computer Engineering</span></a><span style="color:#9999ff;">&nbsp;</span></strong></span><br />
-<span style="font-size: 20px;"><span style="color:#9999ff;"><strong>UNIST</strong></span><span style="color: rgb(169, 169, 169);"><strong>(Ulsan National Institute of Science and Technology)</strong>, Ulsan, Korea</span></span></p>
+<span style="font-size: 20px;"><span style="color:#9999ff;"><strong>UNIST</strong></span><span style="color:#9999ff;"><span style="color: rgb(169, 169, 169);"><strong>(Ulsan National Institute of Science and Technology)</strong>, Ulsan, Korea</span></span></p>
 
 <p align="left">&nbsp;</p>
 </body>
