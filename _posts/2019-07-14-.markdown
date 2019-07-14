@@ -52,7 +52,7 @@ Awarded by Gwacheon National Science Museum<br />
 Topic: &quot;Prediction and Prevention of Cancer Metastasis&nbsp;through Graphene and Micelle&nbsp;Haemostatic Complex&quot;&nbsp;<br />
 Received an award of 500,000 KWR</p></p>
 
-<p align="left">&nbsp;</p>
+  <br />
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.08</span></font><br />
 <span style="color:#696969;"><span style="font-size: 20px;"><strong>Excellence Award, 2018 Startup Summer Camp BM Pitching Contest</strong></span></span><br />
@@ -60,6 +60,7 @@ Received an award of 500,000 KWR</p></p>
 Awarded by Ulsan University LINC+<br />
 Topic: &quot;Power Bank Sharing Service in Bus Station&quot;<br />
 Received an award of 1,000,000 KWR</p></p>
+<br />
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.09</span></font><br />
 <span style="color:#696969;"><span style="font-size: 20px;"><strong>Consolation Prize,&nbsp;5th Tomorrow Busan Idea Contest</strong></span></span><br />
@@ -68,12 +69,16 @@ Awarded by Future Construction Forum Corporation<br />
 Topic: &quot;Smart Marine City throungh Research and Implementation of Marine IoT&quot;<br />
 Received an award of 300,000 KWR</p></p>
 
+<br />
+
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.11</span></font><br />
 <span style="color:#696969;"><span style="font-size: 20px;"><strong>The Best&nbsp;Prize, UNIST X Naver D2SF X Like Lion Hackathon</strong></span></span><br />
 <p style= 'border-left: 0.5em solid #EAEAEA; padding: 0.5em;'>
 Awarded by Like Lion Corportation<br />
 Topic: &quot;Fire Escape Guidance Lamp with Shortest Path&nbsp;Algorithm&quot;<br />
 Received an award of 1,500,000 KWR</p></p>
+
+<br />
 
 <p><span style="color:#696969;"><span style="font-size: 20px;"><strong>Semester Award(학기 포상)</strong></span></span><br />
 <span style="font-size:17px;">&nbsp;-&nbsp;UNIST 2017 1st&nbsp;Semester Award</span><br />
@@ -99,5 +104,7 @@ Received an award of 1,500,000 KWR</p></p>
 <p>&nbsp;</p>
 </body>
 </html>
+
+
 
 
