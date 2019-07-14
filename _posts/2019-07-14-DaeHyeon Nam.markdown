@@ -7,12 +7,16 @@ layout: post
 	<title></title>
 </head>
 <body>
-<p align="left"><span style="font-size:36px;"><span style="color:#696969;"><strong>Education</strong></span></span></p>
+<p align="left"><strong style="color: rgb(105, 105, 105); font-size: 28px;">Education</strong></p>
 
-<p align="left"><span style="font-size:20px;"><span style="color:#A9A9A9;">2016.03 &ndash; Current</span></span></p>
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2016.03 ~ Current</span></font><br />
+<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>B.S. candidate in</strong>&nbsp;</span><strong><a href="http://ece.unist.ac.kr/"><span style="color:#9999ff;">Electrical and Computer Engineering</span></a><span style="color:#9999ff;">&nbsp;</span></strong></span><br />
+<span style="font-size: 20px;"><span style="color:#9999ff;"><strong>UNIST</strong></span><span style="color: rgb(169, 169, 169);"><strong>(Ulsan National Institute of Science and Technology)</strong>, Ulsan, Korea</span></span></p>
 
-<p align="left"><span style="font-size:20px;"><span style="color:#A9A9A9;"><strong>B.S. candidate in</strong>&nbsp;</span><a href="http://ece.unist.ac.kr/"><span style="color:#3366ff;">Electrical and Computer Engineering</span></a><span style="color:#3366ff;">&nbsp;</span><br />
-<span style="color:#3366ff;">UNIST</span><span style="color:#A9A9A9;"><strong>(Ulsan National Institute of Science and Technology)</strong>, Ulsan, Korea&nbsp;</span></span></p>
+<p align="left">&nbsp;</p>
+
+<p align="left"><span style="font-size:20px;"><span style="color:#A9A9A9;"><strong>B.S. candidate in</strong>&nbsp;</span><a href="http://ece.unist.ac.kr/"><span style="color:#3366ff;">Electrical and Computer Engineering</span></a><span style="color:#3366ff;">&nbsp;</span></span><br />
+<span style="font-size:20px;"><span style="color:#3366ff;">UNIST</span><span style="color:#A9A9A9;"><strong>(Ulsan National Institute of Science and Technology)</strong>, Ulsan, Korea&nbsp;</span></span></p>
 </body>
 </html>
 
