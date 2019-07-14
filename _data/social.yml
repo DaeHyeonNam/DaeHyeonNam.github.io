@@ -1,6 +1,10 @@
+- name: github
+  link: 'https://github.com/daeHyeonNam'
+  social_icon: github
+  new_window: true
 - name: Facebook
   link: 'https://www.facebook.com/daehyeon.nam.92'
-  social_icon: github
+  social_icon: Facebook
   new_window: true
 - name: Instagram
   link: 'https://www.instagram.com/iam_daehyeon/'
