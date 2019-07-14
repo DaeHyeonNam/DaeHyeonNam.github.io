@@ -1,6 +1,6 @@
 locale: "en-US"
 title: DaeHyeon Nam # Title of your site
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://daehyeonnam.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
 # Author details for the jekyll-seo-tag gem
 author:
   name: DaeHyeon
-  email: ndh8392l@unist.ac.kr
+  email: ndh8392@unist.ac.kr
   twitter: # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
