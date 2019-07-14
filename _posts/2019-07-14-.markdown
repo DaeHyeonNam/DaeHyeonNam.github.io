@@ -1,7 +1,6 @@
 ---
 layout: post
 ---
-
 <html>
 <head>
 	<title></title>
@@ -13,7 +12,7 @@ layout: post
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2016.03 -&nbsp;Current</span></font><br />
 <span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>B.S. candidate in</strong>&nbsp;</span><strong><a href="http://ece.unist.ac.kr/"><span style="color:#9999ff;">Electrical and Computer Engineering</span></a><span style="color:#9999ff;">&nbsp;</span></strong></span><br />
-<span style="font-size: 20px;"><a href="http://unist.ac.kr"><span style="color:#9999ff;"><strong>UNIST</strong></span></a><span style="color: rgb(169, 169, 169);"><strong>(Ulsan National Institute of Science and Technology)</strong>, Ulsan, Korea</span></span></p>
+<span style="font-size: 20px;"><strong><a href="http://unist.ac.kr"><span style="color:#9999ff;">UNIST</span></a></strong><span style="color:#9999ff;"><strong>&nbsp;</strong></span><span style="color: rgb(169, 169, 169);"><strong>(Ulsan National Institute of Science and Technology)</strong>, Ulsan, Korea</span></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2013.03 -&nbsp;2016.02</span></font><br />
 <span style="font-size: 20px;"><strong><font color="#a9a9a9">HaeUnDae High School</font></strong><font color="#a9a9a9">, Busan, Korea</font></span></p>
@@ -33,6 +32,6 @@ layout: post
 <p align="left"><strong><span style="color: rgb(105, 105, 105);"><span style="font-size: 36px;">Work Experience</span></span></strong></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2019.03 - 2019.06</span></font><br />
-<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>Intern, </strong></span><a href="http://alphaprime.co.kr"><span style="color:#9999ff;"><strong>AlphaPrime</strong></span></a><span style="color: rgb(169, 169, 169);"><strong>(IT Financial&nbsp;Company)</strong></span></span></p>
+<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>Intern, </strong></span><strong><a href="http://alphaprime.co.kr"><span style="color:#9999ff;">AlphaPrime</span></a><span style="color:#9999ff;">&nbsp;</span></strong><span style="color: rgb(169, 169, 169);"><strong>(IT Financial&nbsp;Company)</strong></span></span></p>
 </body>
 </html>
