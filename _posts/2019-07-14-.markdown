@@ -30,50 +30,51 @@ layout: post
 <p align="left"><strong><span style="color: rgb(105, 105, 105);"><span style="font-size: 36px;">Work Experience</span></span></strong></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.12&nbsp;- 2018.03</span></font><br />
-<span style="font-size: 20px;"><strong style=""><span style="color:#808080;">Kitchen Job, </span><a href="http://whic.mofa.go.kr/eng/"><span style="color:#9999ff;">Working Holiday</span></a></strong></span><span style="font-size: 20px;"><strong style=""><font color="#9999ff">&nbsp;</font><span style="color:#808080;">in Sydney, Australia</span></strong></span></p>
+<span style="font-size: 20px;"><strong style=""><span style="color:#696969;">Kitchen Job, </span><a href="http://whic.mofa.go.kr/eng/"><span style="color:#9999ff;">Working Holiday</span></a></strong></span><span style="font-size: 20px;"><strong style=""><font color="#9999ff">&nbsp;</font><span style="color:#696969;">in Sydney, Australia</span></strong></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2019.03 - 2019.06</span></font><br />
-<span style="font-size: 20px;"><strong><span style="color:#808080;">Intern,&nbsp;</span><a href="http://alphaprime.co.kr"><span style="color: rgb(153, 153, 255);">AlphaPrime</span></a><span style="color: rgb(153, 153, 255);">&nbsp;</span><span style="color:#808080;">(IT Financial&nbsp;Company)</span></strong></span></p>
+<span style="font-size: 20px;"><strong><span style="color:#696969;">Intern,</span><span style="color:#808080;">&nbsp;</span><a href="http://alphaprime.co.kr"><span style="color: rgb(153, 153, 255);">AlphaPrime</span></a><span style="color:#696969;">&nbsp;(IT Financial&nbsp;Company)</span></strong></span></p>
 
 <p align="left">&nbsp;</p>
 
 <p align="left"><strong><span style="color: rgb(105, 105, 105);"><span style="font-size: 36px;">Awards</span></span></strong></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.09</span></font><br />
-<span style="color:#808080;"><span style="font-size: 20px;"><strong>Silver Prize, 2017 Nobel Prize Exploration Conference</strong></span></span></p>
+<span style="color:#696969;"><span style="font-size: 20px;"><strong>Silver Prize, 2017 Nobel Prize Exploration Conference</strong></span></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.08</span></font><br />
-<span style="color:#808080;"><span style="font-size: 20px;"><strong>Excellence Award, 2018 Startup Summer Camp BM Pitching Contest</strong></span></span></p>
+<span style="color:#696969;"><span style="font-size: 20px;"><strong>Excellence Award, 2018 Startup Summer Camp BM Pitching Contest</strong></span></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.09</span></font><br />
-<span style="color:#808080;"><span style="font-size: 20px;"><strong>Consolation Prize,&nbsp;5th Tomorrow Busan Idea Contest</strong></span></span></p>
+<span style="color:#696969;"><span style="font-size: 20px;"><strong>Consolation Prize,&nbsp;5th Tomorrow Busan Idea Contest</strong></span></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.11</span></font><br />
-<span style="color:#808080;"><span style="font-size: 20px;"><strong>The Best&nbsp;Prize, UNIST X Naver D2SF X Like Lion Hackathon</strong></span></span></p>
+<span style="color:#696969;"><span style="font-size: 20px;"><strong>The Best&nbsp;Prize, UNIST X Naver D2SF X Like Lion Hackathon</strong></span></span></p>
 
-<p><span style="color:#808080;"><span style="font-size: 20px;">​</span><b style="font-size: 20px; color: rgb(169, 169, 169);">Semester Award(학기 포상)</b></span><br />
+<span style="color:#696969;"><span style="font-size: 20px;"><strong>Semester Award(학기 포상)</strong></span></span><br />
 <span style="font-size:17px;">&nbsp;-&nbsp;UNIST 2017 1st&nbsp;Semester Award<br />
 &nbsp;-&nbsp;UNIST 2017&nbsp;2nd Semester Award<br />
-&nbsp;-&nbsp;UNIST 2018&nbsp;2nd Semester Award</span></p>
+&nbsp;-&nbsp;UNIST 2018&nbsp;2nd Semester Award</span>
 
 <p>&nbsp;</p>
 
 <p align="left"><strong><span style="color: rgb(105, 105, 105);"><span style="font-size: 36px;">Campus Activities</span></span></strong></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.03&nbsp;- 2017.12</span></font><br />
-<span style="font-size: 20px;"><b><span style="color:#808080;">Manager,</span><font color="#a9a9a9"><span style="font-size: 20px;"><b> </b></span></font><a href="https://www.facebook.com/groups/326115774135063/" style="color: rgb(153, 153, 255);">Memory</a><span style="color:#808080;">&nbsp;(Photograph &amp; Travel Group) @ UNIST</span></b></span></p>
+<span style="font-size: 20px;"><b><span style="color:#696969;">Manager,<span style="font-size: 20px;"><b> </b></span></span><a href="https://www.facebook.com/groups/326115774135063/" style="color: rgb(153, 153, 255);">Memory</a><span style="color:#808080;">&nbsp;</span><span style="color:#696969;">(Photograph &amp; Travel Group) @ UNIST</span></b></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.09&nbsp;- 2019.02</span></font><br />
-<span style="font-size: 20px;"><b><span style="color:#808080;">PR Officer,</span><font color="#a9a9a9"><span style="font-size: 20px;"><b> </b></span></font><a href="https://www.facebook.com/UnistECE/"><span style="color:#9999ff;">ECE Student Council</span></a><font color="#a9a9a9">&nbsp;</font><span style="color:#808080;">@ UNIST</span></b></span></p>
+<span style="font-size: 20px;"><b><span style="color:#696969;">PR Officer,<span style="font-size: 20px;"><b> </b></span></span><a href="https://www.facebook.com/UnistECE/"><span style="color:#9999ff;">ECE Student Council</span></a><font color="#a9a9a9">&nbsp;</font><span style="color:#696969;">@ UNIST</span></b></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.03&nbsp;- 2019.02</span></font><br />
-<span style="color:#808080;"><span style="font-size: 20px;"><b>Advisor, Global Student Residental Advisor @ UNIST</b></span></span></p>
+<span style="color:#696969;"><span style="font-size: 20px;"><b>Advisor, Global Student Residental Advisor @ UNIST</b></span></span></p>
 
 <p align="left">&nbsp;</p>
 
 <div>&nbsp;</div>
 </body>
 </html>
+
 
 
 
