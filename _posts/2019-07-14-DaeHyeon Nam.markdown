@@ -7,6 +7,7 @@ layout: post
 	<title></title>
 </head>
 <body>
+<br />
 <p align="left"><strong style="color: rgb(105, 105, 105); font-size: 28px;">Education</strong></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2016.03 ~ Current</span></font><br />
