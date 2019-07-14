@@ -9,49 +9,50 @@ layout: post
 <p align="left"><strong><span style="color:#696969;"><span style="font-size:36px;">Education</span></span></strong></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2016.03 -&nbsp;Current</span></font><br />
-<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>B.S. candidate in</strong>&nbsp;</span><strong><a href="http://ece.unist.ac.kr/"><span style="color:#9999ff;">Electrical and Computer Engineering</span></a><span style="color:#9999ff;">&nbsp;</span></strong></span><br />
-<span style="font-size: 20px;"><strong><a href="http://unist.ac.kr"><span style="color:#9999ff;">UNIST</span></a></strong><span style="color:#9999ff;"><strong>&nbsp;</strong></span><span style="color: rgb(169, 169, 169);"><strong>(Ulsan National Institute of Science and Technology)</strong>, Ulsan, Korea</span></span></p>
+<span style="font-size: 20px;"><span style="color:#808080;"><strong>B.S. candidate in</strong></span><span style="color: rgb(169, 169, 169);">&nbsp;</span><strong><a href="http://ece.unist.ac.kr/"><span style="color:#9999ff;">Electrical and Computer Engineering</span></a><span style="color:#9999ff;">&nbsp;</span></strong></span><br />
+<span style="font-size: 20px;"><strong><a href="http://unist.ac.kr"><span style="color:#9999ff;">UNIST</span></a></strong><span style="color:#9999ff;"><strong>&nbsp;</strong></span><span style="color:#808080;"><strong>(Ulsan National Institute of Science and Technology)</strong>, Ulsan, Korea</span></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2013.03 -&nbsp;2016.02</span></font><br />
-<span style="font-size: 20px;"><strong><font color="#a9a9a9">HaeUnDae High School</font></strong><font color="#a9a9a9">, Busan, Korea</font></span></p>
+<span style="color:#808080;"><span style="font-size: 20px;"><strong>HaeUnDae High School</strong>, Busan, Korea</span></span></p>
 
 <p align="left">&nbsp;</p>
 
 <p align="left"><font color="#696969"><span style="font-size: 36px;"><b>Research Experience</b></span></font></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2016.06&nbsp;- 2016.12</span></font><br />
-<span style="font-size:20px;"><span style="color:#A9A9A9;"><strong>Intern,&nbsp;<span style="font-family: Roboto, &quot;Helvetica Neue&quot;, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);">High-performance Visual Computing Lab(</span></strong></span><strong><span style="font-family: Roboto, &quot;Helvetica Neue&quot;, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);"><a href="http://hvcl.unist.ac.kr/"><span style="color:#9999ff;">HVCL</span></a></span></strong><span style="color:#A9A9A9;"><strong><span style="font-family: Roboto, &quot;Helvetica Neue&quot;, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);">) @ UNIST</span></strong></span></span><span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);">&nbsp;</span></span></p>
+<span style="font-size:20px;"><strong><span style="color:#808080;">Intern,&nbsp;</span><span style="font-family: Roboto, &quot;Helvetica Neue&quot;, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);"><span style="color:#808080;">High-performance Visual Computing Lab(</span><a href="http://hvcl.unist.ac.kr/"><span style="color:#9999ff;">HVCL</span></a><span style="color:#808080;">) @ UNIST</span></span></strong></span><span style="color:#808080;"><span style="font-size: 20px;">&nbsp;</span></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2019.03&nbsp;- 2019.06</span></font><br />
-<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><b>UIRP, Brain Computer Interface Lab(</b></span><strong><a href="http://bci.unist.ac.kr/"><span style="color:#9999ff;">BCI</span></a><span style="color:#A9A9A9;">) @ UNIST</span></strong></span></p>
+<span style="font-size: 20px;"><span style="color:#808080;"><b>UIRP, Brain Computer Interface Lab(</b></span><strong><a href="http://bci.unist.ac.kr/"><span style="color:#9999ff;">BCI</span></a><span style="color:#808080;">) @ UNIST</span></strong></span></p>
 
 <p align="left">&nbsp;</p>
 
 <p align="left"><strong><span style="color: rgb(105, 105, 105);"><span style="font-size: 36px;">Work Experience</span></span></strong></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.12&nbsp;- 2018.03</span></font><br />
-<span style="font-size: 20px;"><strong style=""><font color="#a9a9a9">Kitchen Job, </font><a href="http://whic.mofa.go.kr/eng/"><span style="color:#9999ff;">Working Holiday</span></a></strong></span><span style="font-size: 20px;"><strong style=""><font color="#9999ff">&nbsp;</font><span style="color:#A9A9A9;">in Sydney, Australia</span></strong></span></p>
+<span style="font-size: 20px;"><strong style=""><span style="color:#808080;">Kitchen Job, </span><a href="http://whic.mofa.go.kr/eng/"><span style="color:#9999ff;">Working Holiday</span></a></strong></span><span style="font-size: 20px;"><strong style=""><font color="#9999ff">&nbsp;</font><span style="color:#808080;">in Sydney, Australia</span></strong></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2019.03 - 2019.06</span></font><br />
-<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>Intern,&nbsp;</strong></span><strong><a href="http://alphaprime.co.kr"><span style="color: rgb(153, 153, 255);">AlphaPrime</span></a><span style="color: rgb(153, 153, 255);">&nbsp;</span></strong><span style="color: rgb(169, 169, 169);"><strong>(IT Financial&nbsp;Company)</strong></span></span></p>
+<span style="font-size: 20px;"><strong><span style="color:#808080;">Intern,&nbsp;</span><a href="http://alphaprime.co.kr"><span style="color: rgb(153, 153, 255);">AlphaPrime</span></a><span style="color: rgb(153, 153, 255);">&nbsp;</span><span style="color:#808080;">(IT Financial&nbsp;Company)</span></strong></span></p>
 
 <p align="left">&nbsp;</p>
 
 <p align="left"><strong><span style="color: rgb(105, 105, 105);"><span style="font-size: 36px;">Awards</span></span></strong></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.09</span></font><br />
-<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>Silver Prize, 2017 Nobel Prize Exploration Conference</strong></span></span></p>
+<span style="color:#808080;"><span style="font-size: 20px;"><strong>Silver Prize, 2017 Nobel Prize Exploration Conference</strong></span></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.08</span></font><br />
-<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>Excellence Award, 2018 Startup Summer Camp BM Pitching Contest</strong></span></span></p>
+<span style="color:#808080;"><span style="font-size: 20px;"><strong>Excellence Award, 2018 Startup Summer Camp BM Pitching Contest</strong></span></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.09</span></font><br />
-<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>Consolation Prize,&nbsp;5th Tomorrow Busan Idea Contest</strong></span></span></p>
+<span style="color:#808080;"><span style="font-size: 20px;"><strong>Consolation Prize,&nbsp;5th Tomorrow Busan Idea Contest</strong></span></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.11</span></font><br />
-<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>The Best&nbsp;Prize, UNIST X Naver D2SF X Like Lion Hackathon</strong></span></span></p>
+<span style="color:#808080;"><span style="font-size: 20px;"><strong>The Best&nbsp;Prize, UNIST X Naver D2SF X Like Lion Hackathon</strong></span></span></p>
 
-<p><font color="#a9a9a9"><span style="font-size: 20px;">​</span></font><b style="font-size: 20px; color: rgb(169, 169, 169);">Semester Award(학기 포상)</b><br />
+  <p align="left"><br />
+<span style="color:#808080;"><span style="font-size: 20px;"><strong>Semester Award(학기 포상)</strong></span></span><br />
 <span style="font-size:17px;">&nbsp;-&nbsp;UNIST 2017 1st&nbsp;Semester Award<br />
 &nbsp;-&nbsp;UNIST 2017&nbsp;2nd Semester Award<br />
 &nbsp;-&nbsp;UNIST 2018&nbsp;2nd Semester Award</span></p>
@@ -61,17 +62,19 @@ layout: post
 <p align="left"><strong><span style="color: rgb(105, 105, 105);"><span style="font-size: 36px;">Campus Activities</span></span></strong></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.03&nbsp;- 2017.12</span></font><br />
-<font color="#a9a9a9"><span style="font-size: 20px;"><b>Manager, </b></span></font><span style="font-size: 20px;"><b style=""><a href="https://www.facebook.com/groups/326115774135063/" style="color: rgb(153, 153, 255);">Memory</a>&nbsp;<font color="#a9a9a9">(Photograph &amp; Travel Group) @ UNIST</font></b></span></p>
+<span style="font-size: 20px;"><b><span style="color:#808080;">Manager,</span><font color="#a9a9a9"><span style="font-size: 20px;"><b> </b></span></font><a href="https://www.facebook.com/groups/326115774135063/" style="color: rgb(153, 153, 255);">Memory</a><span style="color:#808080;">&nbsp;(Photograph &amp; Travel Group) @ UNIST</span></b></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.09&nbsp;- 2019.02</span></font><br />
-<font color="#a9a9a9"><span style="font-size: 20px;"><b>PR Officer, </b></span></font><span style="font-size: 20px;"><b><a href="https://www.facebook.com/UnistECE/"><span style="color:#9999ff;">ECE Student Council</span></a><font color="#a9a9a9">&nbsp;@ UNIST</font></b></span></p>
+<span style="font-size: 20px;"><b><span style="color:#808080;">PR Officer,</span><font color="#a9a9a9"><span style="font-size: 20px;"><b> </b></span></font><a href="https://www.facebook.com/UnistECE/"><span style="color:#9999ff;">ECE Student Council</span></a><font color="#a9a9a9">&nbsp;</font><span style="color:#808080;">@ UNIST</span></b></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.03&nbsp;- 2019.02</span></font><br />
-<font color="#a9a9a9"><span style="font-size: 20px;"><b>Advisor, Global Student Residental Advisor @ UNIST</b></span></font></p>
+<span style="color:#808080;"><span style="font-size: 20px;"><b>Advisor, Global Student Residental Advisor @ UNIST</b></span></span></p>
 
 <p align="left">&nbsp;</p>
 
 <div>&nbsp;</div>
 </body>
 </html>
+
+
 
