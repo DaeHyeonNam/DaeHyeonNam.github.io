@@ -1,6 +1,7 @@
 ---
 layout: post
 ---
+
 <html>
 <head>
 	<title></title>
@@ -25,7 +26,13 @@ layout: post
 <span style="font-size:20px;"><span style="color:#A9A9A9;"><strong>Intern,&nbsp;<span style="font-family: Roboto, &quot;Helvetica Neue&quot;, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);">High-performance Visual Computing Lab(</span></strong></span><strong><span style="font-family: Roboto, &quot;Helvetica Neue&quot;, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);"><a href="http://hvcl.unist.ac.kr/"><span style="color:#9999ff;">HVCL</span></a></span></strong><span style="color:#A9A9A9;"><strong><span style="font-family: Roboto, &quot;Helvetica Neue&quot;, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);">) @ UNIST</span></strong></span></span><span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);">&nbsp;</span></span></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2019.03&nbsp;- 2019.06</span></font><br />
-<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><b>UIRP, Brain Computer Interface Lab(</b></span><strong><a href="http://bci.unist.ac.kr/"><span style="color:#9999ff;">BCI</span></a><span style="color:#A9A9A9;">) @ UNIST</span></strong></span><br />
-&nbsp;</p>
+<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><b>UIRP, Brain Computer Interface Lab(</b></span><strong><a href="http://bci.unist.ac.kr/"><span style="color:#9999ff;">BCI</span></a><span style="color:#A9A9A9;">) @ UNIST</span></strong></span></p>
+
+<p align="left">&nbsp;</p>
+
+<p align="left"><strong><span style="color: rgb(105, 105, 105);"><span style="font-size: 36px;">Work Experience</span></span></strong></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2019.03 - 2019.06</span></font><br />
+<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>Intern, </strong></span><a href="http://alphaprime.co.kr"><span style="color:#9999ff;"><strong>AlphaPrime</strong></span></a><span style="color: rgb(169, 169, 169);"><strong>(IT Financial&nbsp;Company)</strong></span></span></p>
 </body>
 </html>
