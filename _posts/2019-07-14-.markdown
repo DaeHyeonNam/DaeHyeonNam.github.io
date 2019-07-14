@@ -33,5 +33,31 @@ layout: post
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2019.03 - 2019.06</span></font><br />
 <span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>Intern, </strong></span><strong><a href="http://alphaprime.co.kr"><span style="color:#9999ff;">AlphaPrime</span></a><span style="color:#9999ff;">&nbsp;</span></strong><span style="color: rgb(169, 169, 169);"><strong>(IT Financial&nbsp;Company)</strong></span></span></p>
+
+<p align="left">&nbsp;</p>
+
+<p align="left"><strong><span style="color: rgb(105, 105, 105);"><span style="font-size: 36px;">Awards</span></span></strong></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.09</span></font><br />
+<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>Silver Prize, 2017 Nobel Prize Exploration Conference</strong></span></span></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.08</span></font><br />
+<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>Excellence Award, 2018 Startup Summer Camp BM Pitching Contest</strong></span></span></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.09</span></font><br />
+<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>Consolation Prize,&nbsp;5th Tomorrow Busan Idea Contest</strong></span></span></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.11</span></font><br />
+<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>The Best&nbsp;Prize, UNIST X Naver D2SF X Like Lion Hackathon</strong></span></span></p>
+
+<p><font color="#a9a9a9"><span style="font-size: 20px;">​</span></font><b style="font-size: 20px; color: rgb(169, 169, 169);">Semester Award(학기 포상)</b></p>
+
+<ul>
+	<li align="left"><font color="#a9a9a9"><span style="font-size: 20px;">UNIST 2017 1st semester award (3rd Semester)</span></font></li>
+	<li align="left"><font color="#a9a9a9"><span style="font-size: 20px;">UNIST 2017&nbsp;2nd&nbsp;semester award (4th&nbsp;Semester)</span></font></li>
+	<li align="left"><font color="#a9a9a9"><span style="font-size: 20px;">UNIST 2018&nbsp;2nd&nbsp;semester award (5th&nbsp;Semester)</span></font></li>
+</ul>
+
+<p align="left">&nbsp;</p>
 </body>
 </html>
