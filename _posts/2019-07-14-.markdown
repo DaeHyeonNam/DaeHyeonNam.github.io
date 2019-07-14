@@ -51,15 +51,14 @@ layout: post
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.11</span></font><br />
 <span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>The Best&nbsp;Prize, UNIST X Naver D2SF X Like Lion Hackathon</strong></span></span></p>
 
-<p><font color="#a9a9a9"><span style="font-size: 20px;">​</span></font><b style="font-size: 20px; color: rgb(169, 169, 169);">Semester Award(학기 포상)</b></p>
+<p><font color="#a9a9a9"><span style="font-size: 20px;">​</span></font><b style="font-size: 20px; color: rgb(169, 169, 169);">Semester Award(학기 포상)</b><br />
 
 <ul>
-	<li><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">UNIST 2017 1st Semester Award&nbsp;</span></span></li>
-	<li><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">UNIST 2017&nbsp;2nd&nbsp;Semester Award&nbsp;</span></span></li>
-	<li><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">UNIST 2018&nbsp;2nd Semester Award&nbsp;</span></span></li>
+	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">UNIST 2017 1st Semester Award&nbsp;</span></span></li>
+	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">UNIST 2017&nbsp;2nd&nbsp;Semester Award&nbsp;</span></span></li>
+	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">UNIST 2018&nbsp;2nd Semester Award&nbsp;</span></span></li>
 </ul>
-
-<p>&nbsp;</p>
+</p>
 
 <p align="left"><strong><span style="color: rgb(105, 105, 105);"><span style="font-size: 36px;">Campus Activities</span></span></strong></p>
 
