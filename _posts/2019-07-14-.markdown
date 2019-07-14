@@ -74,9 +74,10 @@ Received an award of 300,000 KWR</p></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.11</span></font><br />
 <span style="color:#696969;"><span style="font-size: 20px;"><strong>The Best&nbsp;Prize, UNIST X Naver D2SF X Like Lion Hackathon</strong></span></span><br />
+<p style= 'border-left: 0.3em solid #EAEAEA; padding: 0.5em;'>
 Awarded by Like Lion Corportation<br />
 Topic: &quot;Fire Escape Guidance Lamp with Shortest Path&nbsp;Algorithm&quot;<br />
-Received an award of 1,500,000 KWR</p>
+Received an award of 1,500,000 KWR</p></p>
 
 <br />
 
