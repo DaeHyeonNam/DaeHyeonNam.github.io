@@ -9,7 +9,7 @@ layout: post
 <body>
 <p align="left">&nbsp;</p>
 
-<p align="left"><strong style="color: rgb(105, 105, 105); font-size: 28px;">Education</strong></p>
+<p align="left"><strong><span style="color:#696969;"><span style="font-size:36px;">Education</span></span></strong></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2016.03 ~ Current</span></font><br />
 <span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>B.S. candidate in</strong>&nbsp;</span><strong><a href="http://ece.unist.ac.kr/"><span style="color:#9999ff;">Electrical and Computer Engineering</span></a><span style="color:#9999ff;">&nbsp;</span></strong></span><br />
