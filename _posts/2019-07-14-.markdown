@@ -52,7 +52,7 @@ layout: post
 <span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>The Best&nbsp;Prize, UNIST X Naver D2SF X Like Lion Hackathon</strong></span></span></p>
 
 <p><font color="#a9a9a9"><span style="font-size: 20px;">​</span></font><b style="font-size: 20px; color: rgb(169, 169, 169);">Semester Award(학기 포상)</b><br />
-<span style="font-size:14px;">&nbsp;-&nbsp;UNIST 2017 1st&nbsp;Semester Award<br />
+<span style="font-size:12px;">&nbsp;-&nbsp;UNIST 20 1st&nbsp;Semester Award<br />
 &nbsp;-&nbsp;UNIST 2017&nbsp;2nd Semester Award<br />
 &nbsp;-&nbsp;UNIST 2018&nbsp;2nd Semester Award</span></p>
 
