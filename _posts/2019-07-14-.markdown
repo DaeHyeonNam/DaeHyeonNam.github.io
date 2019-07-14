@@ -6,8 +6,6 @@ layout: post
 	<title></title>
 </head>
 <body>
-<p align="left">&nbsp;</p>
-
 <p align="left"><strong><span style="color:#696969;"><span style="font-size:36px;">Education</span></span></strong></p>
 
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2016.03 -&nbsp;Current</span></font><br />
@@ -31,8 +29,11 @@ layout: post
 
 <p align="left"><strong><span style="color: rgb(105, 105, 105);"><span style="font-size: 36px;">Work Experience</span></span></strong></p>
 
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.12&nbsp;- 2018.03</span></font><br />
+<span style="font-size: 20px;"><strong style=""><font color="#a9a9a9">Kitchen Job, </font><a href="http://whic.mofa.go.kr/eng/"><span style="color:#9999ff;">Working Holiday</span></a></strong></span><span style="font-size: 20px;"><strong style=""><font color="#9999ff">&nbsp;</font><span style="color:#A9A9A9;">in Sydney, Australia</span></strong></span></p>
+
 <p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2019.03 - 2019.06</span></font><br />
-<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>Intern, </strong></span><strong><a href="http://alphaprime.co.kr"><span style="color:#9999ff;">AlphaPrime</span></a><span style="color:#9999ff;">&nbsp;</span></strong><span style="color: rgb(169, 169, 169);"><strong>(IT Financial&nbsp;Company)</strong></span></span></p>
+<span style="font-size: 20px;"><span style="color: rgb(169, 169, 169);"><strong>Intern,&nbsp;</strong></span><strong><a href="http://alphaprime.co.kr"><span style="color: rgb(153, 153, 255);">AlphaPrime</span></a><span style="color: rgb(153, 153, 255);">&nbsp;</span></strong><span style="color: rgb(169, 169, 169);"><strong>(IT Financial&nbsp;Company)</strong></span></span></p>
 
 <p align="left">&nbsp;</p>
 
@@ -53,11 +54,24 @@ layout: post
 <p><font color="#a9a9a9"><span style="font-size: 20px;">​</span></font><b style="font-size: 20px; color: rgb(169, 169, 169);">Semester Award(학기 포상)</b></p>
 
 <ul>
-	<li align="left"><font color="#a9a9a9"><span style="font-size: 20px;">UNIST 2017 1st semester award (3rd Semester)</span></font></li>
-	<li align="left"><font color="#a9a9a9"><span style="font-size: 20px;">UNIST 2017&nbsp;2nd&nbsp;semester award (4th&nbsp;Semester)</span></font></li>
-	<li align="left"><font color="#a9a9a9"><span style="font-size: 20px;">UNIST 2018&nbsp;2nd&nbsp;semester award (5th&nbsp;Semester)</span></font></li>
+	<li>UNIST 2017 1st Semester Award&nbsp;</li>
+	<li>UNIST 2017&nbsp;2nd&nbsp;Semester Award&nbsp;</li>
+	<li>UNIST 2018&nbsp;2nd Semester Award&nbsp;</li>
 </ul>
 
-<p align="left">&nbsp;</p>
+<p>&nbsp;</p>
+
+<p align="left"><strong><span style="color: rgb(105, 105, 105);"><span style="font-size: 36px;">Campus Activities</span></span></strong></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.03&nbsp;- 2017.12</span></font><br />
+<font color="#a9a9a9"><span style="font-size: 20px;"><b>Manager, </b></span></font><span style="font-size: 20px;"><b style=""><a href="https://www.facebook.com/groups/326115774135063/" style="color: rgb(153, 153, 255);">Memory</a>&nbsp;<font color="#a9a9a9">(Photograph &amp; Travel Group) @ UNIST</font></b></span></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.09&nbsp;- 2019.02</span></font><br />
+<font color="#a9a9a9"><span style="font-size: 20px;"><b>PR Officer, </b></span></font><span style="font-size: 20px;"><b><a href="https://www.facebook.com/UnistECE/"><span style="color:#9999ff;">ECE Student Council</span></a><font color="#a9a9a9">&nbsp;@ UNIST</font></b></span></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.03&nbsp;- 2019.02</span></font><br />
+<font color="#a9a9a9"><span style="font-size: 20px;"><b>Advisor, Global Student Residental Advisor @ UNIST</b></span></font></p>
+
+<div>&nbsp;</div>
 </body>
 </html>
