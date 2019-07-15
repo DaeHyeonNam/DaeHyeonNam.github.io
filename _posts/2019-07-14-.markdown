@@ -69,7 +69,7 @@ Received an award of 300,000 KWR</span></p>
 Topic: &quot;Fire Escape Guidance Lamp with Shortest Path&nbsp;Algorithm&quot;<br />
 Received an award of 1,500,000 KWR</span></p>
 
-<p><span style="font-size:22px;"><span style="color: #696969;"><strong>Semester Award(학기 포상</strong></span></span><br />
+<p><span style="font-size:22px;"><span style="color: #696969;"><strong>Semester Award(학기 포상)</strong></span></span><br />
 <span style="font-size:16px;">&nbsp;- UNIST 2017 1st Semester Award<br />
 &nbsp;- UNIST 2017 2nd Semester Award<br />
 &nbsp;- UNIST 2018 2nd Semester Award</span></p>
