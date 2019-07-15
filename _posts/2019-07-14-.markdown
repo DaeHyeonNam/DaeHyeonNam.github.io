@@ -73,8 +73,7 @@ Received an award of 300,000 KWR</span></span></p>
 <span style="color: #696969;"><strong>The Best&nbsp;Prize, UNIST X Naver D2SF X Like Lion Hackathon</strong></span></span><br />
 <span style="font-size:18px;">Awarded by Like Lion Corportation<br />
 Topic: &quot;Fire Escape Guidance Lamp with Shortest Path&nbsp;Algorithm&quot;<br />
-Received an award of 1,500,000 KWR</span></span>
-<img src="/images/TheBestPrize.jpg" class="fit image" style="max-width: 700px; height: auto;"></p>
+Received an award of 1,500,000 KWR</span></span> <img class="fit image" src="/images/TheBestPrize.jpg" style="max-width: 700px; height: auto;" /></p>
 
 <p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #696969;"><strong>Semester Award(학기 포상)</strong></span></span><br />
 <span style="font-size:18px;">&nbsp;- UNIST 2017 1st Semester Award<br />
@@ -94,11 +93,29 @@ Received an award of 1,500,000 KWR</span></span>
 
 <p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.03&nbsp;- 2019.02</span><br />
 <span style="color: #696969;"><strong>Advisor, Global Student Residental Advisor @ UNIST</strong></span></span></span><br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" />
-<font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Became a mentor for international freshmen, help them adjust to school, and travel around korea together</span></font>
-<img src="/images/GRAFriends.jpeg" class="fit image" style="max-width: 700px; height: auto;"> </p>
+<font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Became a mentor for international freshmen, help them adjust to school, and travel around korea together</span></font> <img class="fit image" src="/images/GRAFriends.jpeg" style="max-width: 700px; height: auto;" /></p>
 
 <p align="left">&nbsp;</p>
+
+<p align="left"><font color="#696969" face="tahoma, geneva, sans-serif"><span style="font-size: 36px;"><b>Projects</b></span></font></p>
+
+<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2018.09&nbsp;- 2018.11</span><br />
+<span style="color: rgb(105, 105, 105);"><strong>Fire Escape Guidance Lamp with Shortest Path Algorithm</strong></span></span></span><br />
+<span style="font-family: tahoma, geneva, sans-serif;"><a href="https://github.com/DaeHyeonNam/FireEscapeGuidance"><span style="color:#9999ff;"><span style="font-size: 18px;">code</span></span></a></span></p>
+
+<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.06- 2019.07</span><br />
+<span style="color: rgb(105, 105, 105);"><strong>Stock Manager GUI</strong></span></span></span><br />
+<a href="https://github.com/DaeHyeonNam/StockManager"><font color="#9999ff" face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">code</span></font></a></p>
+
+<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.03 - 2019.06</span><br />
+<span style="color: rgb(105, 105, 105);"><strong>Real Time Vowel Imagery Decoding System toward Silent Speech BCI</strong></span></span></span><br />
+<span style="font-family: tahoma, geneva, sans-serif;"><a href="https://github.com/DaeHyeonNam/RealTimeEEGVowelPrediction"><span style="color: rgb(153, 153, 255);"><span style="font-size: 18px;">code</span></span></a></span></p>
+
+<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.06</span><br />
+<span style="color: rgb(105, 105, 105);"><strong>Dog Forever</strong></span></span></span><br />
+<span style="font-family: tahoma, geneva, sans-serif;"><span style="color: rgb(153, 153, 255);"><span style="font-size: 18px;"><a href="https://www.youtube.com/watch?v=ZDRmkL-U-lo">demo</a>::<a href="https://github.com/DaeHyeonNam/DogForever">code</a></span></span></span></p>
 
 <p>&nbsp;</p>
 </body>
 </html>
+
