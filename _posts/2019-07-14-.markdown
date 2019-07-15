@@ -32,10 +32,12 @@ layout: post
 <p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><strong><span style="color: #696969;"><span style="font-size: 36px;">Work Experience</span></span></strong></span></p>
 
 <p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.09&nbsp;- 2017.12</span><br />
-<strong><span style="color: #696969;">Teaching Assistant, Object Oriented Programming Course @ UNIST</span></strong></span></span></p>
+<strong><span style="color: #696969;">Teaching Assistant, Object Oriented Programming Course @ UNIST</span></strong></span></span><br style="font-family: tahoma, geneva, sans-serif;" />
+<font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Answer questions and supervise exams</span></font></p>
 
 <p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.12&nbsp;- 2018.03</span><br />
-<strong><span style="color: #696969;">Kitchen Job, </span><a href="http://whic.mofa.go.kr/eng/"><span style="color: #9999ff;">Working Holiday</span></a><span style="color: #9999ff;">&nbsp;</span><span style="color: #696969;">in Sydney, Australia</span></strong></span></span></p>
+<strong><span style="color: #696969;">Kitchen Job, </span><a href="http://whic.mofa.go.kr/eng/"><span style="color: #9999ff;">Working Holiday</span></a><span style="color: #9999ff;">&nbsp;</span><span style="color: #696969;">in Sydney, Australia</span></strong></span></span><br style="font-family: tahoma, geneva, sans-serif;" />
+<font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Make sandwich at the brunch cafe :)</span></font></p>
 
 <p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: rgb(169, 169, 169);">2018.09&nbsp;- 2018.12</span><br />
 <strong><span style="color: #696969;">Teaching Assistant, Data Structure Course&nbsp;@ UNIST</span></strong></span><br />
@@ -76,7 +78,8 @@ Received an award of 1,500,000 KWR</span></span></p>
 <p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #696969;"><strong>Semester Award(학기 포상)</strong></span></span><br />
 <span style="font-size:18px;">&nbsp;- UNIST 2017 1st Semester Award<br />
 &nbsp;- UNIST 2017 2nd Semester Award<br />
-&nbsp;- UNIST 2018 2nd Semester Award</span></span></p>
+&nbsp;- UNIST 2018 2nd Semester Award</span></span><br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" />
+<span style="font-family: tahoma, geneva, sans-serif; font-size: 18px;">&nbsp;- UNIST 2019&nbsp;1st&nbsp;Semester Award</span></p>
 
 <p>&nbsp;</p>
 
@@ -89,10 +92,10 @@ Received an award of 1,500,000 KWR</span></span></p>
 <strong><span style="color: #696969;">PR Officer, </span><a href="https://www.facebook.com/UnistECE/"><span style="color: #9999ff;">ECE Student Council</span></a><span style="color: #a9a9a9;">&nbsp;</span><span style="color: #696969;">@ UNIST</span></strong></span></span></p>
 
 <p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.03&nbsp;- 2019.02</span><br />
-<span style="color: #696969;"><strong>Advisor, Global Student Residental Advisor @ UNIST</strong></span></span></span></p>
+<span style="color: #696969;"><strong>Advisor, Global Student Residental Advisor @ UNIST</strong></span></span></span><br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" />
+<font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Became a mentor for international freshmen, help them adjust to school, and travel around korea together</span></font></p>
 
-<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.12&nbsp;- 2018.03</span><br />
-<strong><span style="color: #696969;">Kitchen Job,&nbsp;</span><a href="http://whic.mofa.go.kr/eng/"><span style="color: #9999ff;">Working Holiday</span></a><span style="color: #9999ff;">&nbsp;</span><span style="color: #696969;">in Sydney, Australia</span></strong></span></span></p>
+<p align="left">&nbsp;</p>
 
 <p>&nbsp;</p>
 </body>
