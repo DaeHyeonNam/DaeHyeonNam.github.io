@@ -99,9 +99,9 @@ Received an award of 1,500,000 KWR</span></span> <img class="fit image" src="/im
 
 <p align="left"><font color="#696969" face="tahoma, geneva, sans-serif"><span style="font-size: 36px;"><b>Projects</b></span></font></p>
 
-<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2018.09&nbsp;- 2018.11</span><br />
+<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color:#A9A9A9;">2018.09&nbsp;- 2018.11</span><br />
 <span style="color: rgb(105, 105, 105);"><strong>Fire Escape Guidance Lamp with Shortest Path Algorithm</strong></span></span></span><br />
-<span style="font-family: tahoma, geneva, sans-serif;"><a href="https://github.com/DaeHyeonNam/FireEscapeGuidance"><span style="color:#9999ff;"><span style="font-size: 18px;">code</span></span></a></span></p>
+<span style="font-family: tahoma, geneva, sans-serif;"><a href="https://www.youtube.com/watch?v=cMXFvVglAk8&amp;feature=youtu.be"><span style="color:#9999ff;"><span style="font-size: 18px;">demo</span></span></a><span style="font-size: 18px;"><span style="color:#A9A9A9;">::</span><a href="https://github.com/DaeHyeonNam/FireEscapeGuidance"><span style="color:#9999ff;">code</span></a></span></span><img class="fit image" src="/images/FireEscapeGuidance.JPG" style="max-width: 700px; height: auto;" /></p>
 
 <p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.06- 2019.07</span><br />
 <span style="color: rgb(105, 105, 105);"><strong>Stock Manager GUI</strong></span></span></span><br />
