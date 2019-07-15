@@ -93,7 +93,7 @@ Received an award of 1,500,000 KWR</span></span> <img class="fit image" src="/im
 
 <p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.03&nbsp;- 2019.02</span><br />
 <span style="color: #696969;"><strong>Advisor, Global Student Residental Advisor @ UNIST</strong></span></span></span><br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" />
-<font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Became a mentor for international freshmen, help them adjust to school, and travel around korea together</span></font> <img class="fit image" src="/images/GRAFriends.jpeg" style="max-width: 700px; height: auto;" /></p>
+<font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Become a mentor for international freshmen, help them adjust to school, and travel around korea together</span></font> <img class="fit image" src="/images/GRAFriends.jpeg" style="max-width: 700px; height: auto;" /></p>
 
 <p align="left">&nbsp;</p>
 
@@ -118,4 +118,5 @@ Received an award of 1,500,000 KWR</span></span> <img class="fit image" src="/im
 <p><span style="font-size:18px;"><font color="#a9a9a9" face="tahoma, geneva, sans-serif">For more projects, please visit my </font><font face="tahoma, geneva, sans-serif"><a href="https://github.com/DaeHyeonNam/"><span style="color:#9999ff;">github page</span></a></font></span></p>
 </body>
 </html>
+
 
