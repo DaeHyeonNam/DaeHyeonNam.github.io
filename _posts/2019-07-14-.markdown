@@ -38,10 +38,12 @@ layout: post
 <strong><span style="color: #696969;">Kitchen Job, </span><a href="http://whic.mofa.go.kr/eng/"><span style="color: #9999ff;">Working Holiday</span></a><span style="color: #9999ff;">&nbsp;</span><span style="color: #696969;">in Sydney, Australia</span></strong></span></p>
 
 <p align="left"><span style="font-size:22px;"><span style="color: rgb(169, 169, 169);">2018.09&nbsp;- 2018.12</span><br />
-<strong><span style="color: #696969;">Teaching Assistant, Data Structure Course&nbsp;@ UNIST</span></strong></span></p>
+<strong><span style="color: #696969;">Teaching Assistant, Data Structure Course&nbsp;@ UNIST</span></strong></span><br />
+<span style="font-size: 18px;">Build grading system using shell script and make assignments</span></p>
 
 <p align="left"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.03 - 2019.06</span><br />
-<strong><span style="color: #696969;">Intern,</span><span style="color: #808080;">&nbsp;</span><a href="http://alphaprime.co.kr"><span style="color: #9999ff;">AlphaPrime</span></a><span style="color: #696969;">&nbsp;(IT Financial&nbsp;Company)</span></strong></span></p>
+<strong><span style="color: #696969;">Intern,</span><span style="color: #808080;">&nbsp;</span><a href="http://alphaprime.co.kr"><span style="color: #9999ff;">AlphaPrime</span></a><span style="color: #696969;">&nbsp;(IT Financial&nbsp;Company)</span></strong></span><br />
+<span style="font-size: 18px;">Build algorithm backtesting service using AWS lambda, and stock trading program</span></p>
 
 <p align="left">&nbsp;</p>
 
