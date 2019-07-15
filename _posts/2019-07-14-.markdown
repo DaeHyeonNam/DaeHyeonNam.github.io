@@ -47,42 +47,40 @@ layout: post
 
 <p align="left"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.09</span><br />
 <span style="color: #696969;"><strong>Silver Prize, 2017 Nobel Prize Exploration Conference</strong></span></span><br />
-Awarded by Gwacheon National Science Museum<br />
+<span style="font-size:14px;">Awarded by Gwacheon National Science Museum<br />
 Topic: &quot;Prediction and Prevention of Cancer Metastasis&nbsp;through Graphene and Micelle&nbsp;Haemostatic Complex&quot;&nbsp;<br />
-Received an award of 500,000 KWR</p>
+Received an award of 500,000 KWR</span></p>
 
 <p>&nbsp;</p>
 
 <p align="left"><span style="font-size:22px;"><span style="color: #a9a9a9;">2018.08</span><br />
 <span style="color: #696969;"><strong>Excellence Award, 2018 Startup Summer Camp BM Pitching Contest</strong></span></span><br />
-Awarded by Ulsan University LINC+<br />
+<span style="font-size:14px;">Awarded by Ulsan University LINC+<br />
 Topic: &quot;Power Bank Sharing Service in Bus Station&quot;<br />
-Received an award of 1,000,000 KWR</p>
+Received an award of 1,000,000 KWR</span></p>
 
 <p style="margin-left: 40px;">&nbsp;</p>
 
 <p align="left"><span style="font-size:22px;"><span style="color: #a9a9a9;">2018.09</span><br />
 <span style="color: #696969;"><strong>Consolation Prize,&nbsp;5th Tomorrow Busan Idea Contest</strong></span></span><br />
-Awarded by Future Construction Forum Corporation<br />
+<span style="font-size:14px;">Awarded by Future Construction Forum Corporation<br />
 Topic: &quot;Smart Marine City throungh Research and Implementation of Marine IoT&quot;<br />
-Received an award of 300,000 KWR</p>
+Received an award of 300,000 KWR</span></p>
 
 <p>&nbsp;</p>
 
 <p align="left"><span style="font-size:22px;"><span style="color: #a9a9a9;">2018.11</span><br />
 <span style="color: #696969;"><strong>The Best&nbsp;Prize, UNIST X Naver D2SF X Like Lion Hackathon</strong></span></span><br />
-Awarded by Like Lion Corportation<br />
+<span style="font-size:14px;">Awarded by Like Lion Corportation<br />
 Topic: &quot;Fire Escape Guidance Lamp with Shortest Path&nbsp;Algorithm&quot;<br />
-Received an award of 1,500,000 KWR</p>
+Received an award of 1,500,000 KWR</span></p>
 
 <p style="margin-left: 40px;">&nbsp;</p>
 
 <p><span style="font-size:22px;"><span style="color: #696969;"><strong>Semester Award(학기 포상)</strong></span></span><br />
-<span style="font-size: 17px;">&nbsp;-&nbsp;UNIST 2017 1st&nbsp;Semester Award</span><br />
-<span style="font-size: 17px;">&nbsp;-&nbsp;UNIST 2017&nbsp;2nd Semester Award<br />
-&nbsp;-&nbsp;UNIST 2018&nbsp;2nd Semester Award</span></p>
-
-<p>&nbsp;</p>
+<span style="font-size:14px;">&nbsp;- UNIST 2017 1st Semester Award<br />
+&nbsp;- UNIST 2017 2nd Semester Award<br />
+&nbsp;- UNIST 2018 2nd Semester Award</span></p>
 
 <p>&nbsp;</p>
 
