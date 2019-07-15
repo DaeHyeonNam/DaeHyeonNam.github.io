@@ -1,41 +1,117 @@
 ---
 layout: post
 ---
-<span style="line-height:50%">
-  
-<p align="left"><strong><span style="color: #696969;"><span style="font-size: 36px;">Education</span></span></strong></p>
-<p align="left"><span style="color: #a9a9a9;"><span style="font-size: 20px;">2016.03 -&nbsp;Current</span></span><br /> <span style="font-size: 20px;"><span style="color: #696969;"><strong>B.S. candidate in</strong></span><span style="color: #a9a9a9;">&nbsp;</span><strong><a href="http://ece.unist.ac.kr/"><span style="color: #9999ff;">Electrical and Computer Engineering</span></a><span style="color: #9999ff;">&nbsp;</span></strong></span><br /> <span style="font-size: 20px;"><strong><a href="http://unist.ac.kr"><span style="color: #9999ff;">UNIST</span></a></strong><span style="color: #9999ff;"><strong>&nbsp;</strong></span><span style="color: #696969;"><strong>(Ulsan National Institute of Science and Technology)</strong>, Ulsan, Korea</span></span></p>
-<p align="left"><span style="color: #a9a9a9;"><span style="font-size: 20px;">2013.03 -&nbsp;2016.02</span></span><br /> <span style="color: #696969;"><span style="font-size: 20px;"><strong>HaeUnDae High School</strong>, Busan, Korea</span></span></p>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p align="left"><strong><span style="color:#696969;"><span style="font-size:36px;">Education</span></span></strong></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2016.03 -&nbsp;Current</span></font><br />
+<span style="font-size: 20px;"><span style="color:#696969;"><strong>B.S. candidate in</strong></span><span style="color: rgb(169, 169, 169);">&nbsp;</span><strong><a href="http://ece.unist.ac.kr/"><span style="color:#9999ff;">Electrical and Computer Engineering</span></a><span style="color:#9999ff;">&nbsp;</span></strong></span><br />
+<span style="font-size: 20px;"><strong><a href="http://unist.ac.kr"><span style="color:#9999ff;">UNIST</span></a></strong><span style="color:#9999ff;"><strong>&nbsp;</strong></span><span style="color:#696969;"><strong>(Ulsan National Institute of Science and Technology)</strong>, Ulsan, Korea</span></span></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2013.03 -&nbsp;2016.02</span></font><br />
+<span style="color:#696969;"><span style="font-size: 20px;"><strong>HaeUnDae High School</strong>, Busan, Korea</span></span></p>
+
 <p align="left">&nbsp;</p>
-<p align="left"><span style="color: #696969;"><span style="font-size: 36px;"><strong>Research Experience</strong></span></span></p>
-<p align="left"><span style="color: #a9a9a9;"><span style="font-size: 20px;">2016.06&nbsp;- 2016.12</span></span><br /> <span style="font-size: 20px;"><strong><span style="color: #696969;">Intern,&nbsp;</span><span style="font-family: Roboto, 'Helvetica Neue', sans-serif; text-align: justify; background-color: #ffffff;"><span style="color: #696969;">High-performance Visual Computing Lab(</span><a href="http://hvcl.unist.ac.kr/"><span style="color: #9999ff;">HVCL</span></a><span style="color: #696969;">) @ UNIST</span></span></strong><span style="color: #696969;">&nbsp;</span></span></p>
-<p align="left"><span style="color: #a9a9a9;"><span style="font-size: 20px;">2019.03&nbsp;- 2019.06</span></span><br /> <span style="font-size: 20px;"><span style="color: #696969;"><strong>UIRP, Brain Computer Interface Lab(</strong></span><strong><a href="http://bci.unist.ac.kr/"><span style="color: #9999ff;">BCI</span></a><span style="color: #696969;">) @ UNIST</span></strong></span></p>
+
+<p align="left"><font color="#696969"><span style="font-size: 36px;"><b>Research Experience</b></span></font></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2016.06&nbsp;- 2016.12</span></font><br />
+<span style="font-size: 20px;"><strong><span style="color:#696969;">Intern,&nbsp;</span><span style="font-family: Roboto, &quot;Helvetica Neue&quot;, sans-serif; text-align: justify; background-color: rgb(255, 255, 255);"><span style="color:#696969;">High-performance Visual Computing Lab(</span><a href="http://hvcl.unist.ac.kr/"><span style="color:#9999ff;">HVCL</span></a><span style="color:#696969;">) @ UNIST</span></span></strong><span style="color:#696969;">&nbsp;</span></span></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2019.03&nbsp;- 2019.06</span></font><br />
+<span style="font-size: 20px;"><span style="color:#696969;"><b>UIRP, Brain Computer Interface Lab(</b></span><strong><a href="http://bci.unist.ac.kr/"><span style="color:#9999ff;">BCI</span></a><span style="color:#696969;">) @ UNIST</span></strong></span></p>
+
 <p align="left">&nbsp;</p>
-<p align="left"><strong><span style="color: #696969;"><span style="font-size: 36px;">Work Experience</span></span></strong></p>
-<p align="left"><span style="color: #a9a9a9;"><span style="font-size: 20px;">2017.09&nbsp;- 2017.12</span></span><br /> <span style="font-size: 20px;"><strong><span style="color: #696969;">Teaching Assistant, Object Oriented Programming Course @ UNIST</span></strong></span></p>
-<p align="left"><span style="color: #a9a9a9;"><span style="font-size: 20px;">2017.12&nbsp;- 2018.03</span></span><br /> <span style="font-size: 20px;"><strong><span style="color: #696969;">Kitchen Job, </span><a href="http://whic.mofa.go.kr/eng/"><span style="color: #9999ff;">Working Holiday</span></a></strong></span><span style="font-size: 20px;"><strong><span style="color: #9999ff;">&nbsp;</span><span style="color: #696969;">in Sydney, Australia</span></strong></span></p>
-<p align="left"><span style="font-size: 20px; color: #a9a9a9;">2018.09&nbsp;- 2018.12</span><br /> <span style="font-size: 20px;"><strong><span style="color: #696969;">Teaching Assistant, Data Structure Course&nbsp;</span></strong></span><span style="font-size: 20px;"><strong><span style="color: #696969;">@ UNIST</span></strong></span></p>
-<p align="left"><span style="color: #a9a9a9;"><span style="font-size: 20px;">2019.03 - 2019.06</span></span><br /> <span style="font-size: 20px;"><strong><span style="color: #696969;">Intern,</span><span style="color: #808080;">&nbsp;</span><a href="http://alphaprime.co.kr"><span style="color: #9999ff;">AlphaPrime</span></a><span style="color: #696969;">&nbsp;(IT Financial&nbsp;Company)</span></strong></span></p>
+
+<p align="left"><strong><span style="color: rgb(105, 105, 105);"><span style="font-size: 36px;">Work Experience</span></span></strong></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.09&nbsp;- 2017.12</span></font><br />
+<span style="font-size: 20px;"><strong><span style="color: rgb(105, 105, 105);">Teaching Assistant, Object Oriented Programming Course @ UNIST</span></strong></span></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.12&nbsp;- 2018.03</span></font><br />
+<span style="font-size: 20px;"><strong style=""><span style="color:#696969;">Kitchen Job, </span><a href="http://whic.mofa.go.kr/eng/"><span style="color:#9999ff;">Working Holiday</span></a></strong></span><span style="font-size: 20px;"><strong style=""><font color="#9999ff">&nbsp;</font><span style="color:#696969;">in Sydney, Australia</span></strong></span></p>
+
+<p align="left"><span style="font-size: 20px; color: rgb(169, 169, 169);">2018.09&nbsp;- 2018.12</span><br />
+<span style="font-size: 20px;"><strong><span style="color: rgb(105, 105, 105);">Teaching Assistant, Data Structure Course&nbsp;</span></strong></span><span style="font-size: 20px;"><strong><span style="color:#696969;">@ UNIST</span></strong></span></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2019.03 - 2019.06</span></font><br />
+<span style="font-size: 20px;"><strong><span style="color:#696969;">Intern,</span><span style="color:#808080;">&nbsp;</span><a href="http://alphaprime.co.kr"><span style="color: rgb(153, 153, 255);">AlphaPrime</span></a><span style="color:#696969;">&nbsp;(IT Financial&nbsp;Company)</span></strong></span></p>
+
 <p align="left">&nbsp;</p>
-<p align="left"><strong><span style="color: #696969;"><span style="font-size: 36px;">Awards</span></span></strong></p>
-<p align="left"><span style="color: #a9a9a9;"><span style="font-size: 20px;">2017.09</span></span><br /> <span style="color: #696969;"><span style="font-size: 20px;"><strong>Silver Prize, 2017 Nobel Prize Exploration Conference</strong></span></span></p>
-<p style="border-left: 0.3em solid #EAEAEA; padding: 0.5em;">Awarded by Gwacheon National Science Museum<br /> Topic: "Prediction and Prevention of Cancer Metastasis&nbsp;through Graphene and Micelle&nbsp;Haemostatic Complex"&nbsp;<br /> Received an award of 500,000 KWR</p>
+
+<p align="left"><strong><span style="color: rgb(105, 105, 105);"><span style="font-size: 36px;">Awards</span></span></strong></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.09</span></font><br />
+<span style="color:#696969;"><span style="font-size: 20px;"><strong>Silver Prize, 2017 Nobel Prize Exploration Conference</strong></span></span></p>
+
+<p style="border-left: 0.3em solid #EAEAEA; padding: 0.5em;">Awarded by Gwacheon National Science Museum<br />
+Topic: &quot;Prediction and Prevention of Cancer Metastasis&nbsp;through Graphene and Micelle&nbsp;Haemostatic Complex&quot;&nbsp;<br />
+Received an award of 500,000 KWR</p>
+
 <p>&nbsp;</p>
-<p align="left"><span style="color: #a9a9a9;"><span style="font-size: 20px;">2018.08</span></span><br /> <span style="color: #696969;"><span style="font-size: 20px;"><strong>Excellence Award, 2018 Startup Summer Camp BM Pitching Contest</strong></span></span></p>
-<p style="border-left: 0.3em solid #EAEAEA; padding: 0.5em;">Awarded by Ulsan University LINC+<br /> Topic: "Power Bank Sharing Service in Bus Station"<br /> Received an award of 1,000,000 KWR</p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.08</span></font><br />
+<span style="color:#696969;"><span style="font-size: 20px;"><strong>Excellence Award, 2018 Startup Summer Camp BM Pitching Contest</strong></span></span></p>
+
+
+<p style="border-left: 0.3em solid #EAEAEA; padding: 0.5em;">Awarded by Ulsan University LINC+<br />
+Topic: &quot;Power Bank Sharing Service in Bus Station&quot;<br />
+Received an award of 1,000,000 KWR</p>
+
+
 <p>&nbsp;</p>
-<p align="left"><span style="color: #a9a9a9;"><span style="font-size: 20px;">2018.09</span></span><br /> <span style="color: #696969;"><span style="font-size: 20px;"><strong>Consolation Prize,&nbsp;5th Tomorrow Busan Idea Contest</strong></span></span></p>
-<p style="border-left: 0.3em solid #EAEAEA; padding: 0.5em;">Awarded by Future Construction Forum Corporation<br /> Topic: "Smart Marine City throungh Research and Implementation of Marine IoT"<br /> Received an award of 300,000 KWR</p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.09</span></font><br />
+<span style="color:#696969;"><span style="font-size: 20px;"><strong>Consolation Prize,&nbsp;5th Tomorrow Busan Idea Contest</strong></span></span></p>
+
+
+<p style="border-left: 0.3em solid #EAEAEA; padding: 0.5em;">Awarded by Future Construction Forum Corporation<br />
+Topic: &quot;Smart Marine City throungh Research and Implementation of Marine IoT&quot;<br />
+Received an award of 300,000 KWR</p>
+
 <p>&nbsp;</p>
-<p align="left"><span style="color: #a9a9a9;"><span style="font-size: 20px;">2018.11</span></span><br /> <span style="color: #696969;"><span style="font-size: 20px;"><strong>The Best&nbsp;Prize, UNIST X Naver D2SF X Like Lion Hackathon</strong></span></span></p>
-<p style="border-left: 0.3em solid #EAEAEA; padding: 0.5em;">Awarded by Like Lion Corportation<br /> Topic: "Fire Escape Guidance Lamp with Shortest Path&nbsp;Algorithm"<br /> Received an award of 1,500,000 KWR</p>
+
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.11</span></font><br />
+<span style="color:#696969;"><span style="font-size: 20px;"><strong>The Best&nbsp;Prize, UNIST X Naver D2SF X Like Lion Hackathon</strong></span></span></p>
+
+
+<p style="border-left: 0.3em solid #EAEAEA; padding: 0.5em;">Awarded by Like Lion Corportation<br />
+Topic: &quot;Fire Escape Guidance Lamp with Shortest Path&nbsp;Algorithm&quot;<br />
+Received an award of 1,500,000 KWR</p>
+
 <p>&nbsp;</p>
-<p><span style="color: #696969;"><span style="font-size: 20px;"><strong>Semester Award(학기 포상)</strong></span></span><br /> <span style="font-size: 17px;">&nbsp;-&nbsp;UNIST 2017 1st&nbsp;Semester Award</span><br /> <span style="font-size: 17px;">&nbsp;-&nbsp;UNIST 2017&nbsp;2nd Semester Award<br /> &nbsp;-&nbsp;UNIST 2018&nbsp;2nd Semester Award</span></p>
+
 <p>&nbsp;</p>
-<p align="left"><strong><span style="color: #696969;"><span style="font-size: 36px;">Campus Activities</span></span></strong></p>
-<p align="left"><span style="color: #a9a9a9;"><span style="font-size: 20px;">2017.03&nbsp;- 2018.02</span></span><br /> <span style="font-size: 20px;"><strong><span style="color: #696969;">Manager, </span><a style="color: #9999ff;" href="https://www.facebook.com/groups/326115774135063/">Memory</a><span style="color: #808080;">&nbsp;</span><span style="color: #696969;">(Photograph &amp; Travel Group) @ UNIST</span></strong></span></p>
-<p align="left"><span style="color: #a9a9a9;"><span style="font-size: 20px;">2018.09&nbsp;- 2019.02</span></span><br /> <span style="font-size: 20px;"><strong><span style="color: #696969;">PR Officer, </span><a href="https://www.facebook.com/UnistECE/"><span style="color: #9999ff;">ECE Student Council</span></a><span style="color: #a9a9a9;">&nbsp;</span><span style="color: #696969;">@ UNIST</span></strong></span></p>
-<p align="left"><span style="color: #a9a9a9;"><span style="font-size: 20px;">2017.03&nbsp;- 2019.02</span></span><br /> <span style="color: #696969;"><span style="font-size: 20px;"><strong>Advisor, Global Student Residental Advisor @ UNIST</strong></span></span></p>
-<p><span style="color: #a9a9a9;"><span style="font-size: 20px;">2017.12&nbsp;- 2018.03</span></span><br /> <span style="font-size: 20px;"><strong><span style="color: #696969;">Kitchen Job,&nbsp;</span><a href="http://whic.mofa.go.kr/eng/"><span style="color: #9999ff;">Working Holiday</span></a></strong></span><span style="font-size: 20px;"><strong><span style="color: #9999ff;">&nbsp;</span><span style="color: #696969;">in Sydney, Australia</span></strong></span></p>
+
+<p><span style="color:#696969;"><span style="font-size: 20px;"><strong>Semester Award(학기 포상)</strong></span></span><br />
+<span style="font-size:17px;">&nbsp;-&nbsp;UNIST 2017 1st&nbsp;Semester Award</span><br />
+<span style="font-size:17px;">&nbsp;-&nbsp;UNIST 2017&nbsp;2nd Semester Award<br />
+&nbsp;-&nbsp;UNIST 2018&nbsp;2nd Semester Award</span></p>
+
 <p>&nbsp;</p>
-</span>
+
+<p>&nbsp;</p>
+
+<p align="left"><strong><span style="color: rgb(105, 105, 105);"><span style="font-size: 36px;">Campus Activities</span></span></strong></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.03&nbsp;- 2018.02</span></font><br />
+<span style="font-size: 20px;"><b><span style="color:#696969;">Manager,<span style="font-size: 20px;"><b> </b></span></span><a href="https://www.facebook.com/groups/326115774135063/" style="color: rgb(153, 153, 255);">Memory</a><span style="color:#808080;">&nbsp;</span><span style="color:#696969;">(Photograph &amp; Travel Group) @ UNIST</span></b></span></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2018.09&nbsp;- 2019.02</span></font><br />
+<span style="font-size: 20px;"><b><span style="color:#696969;">PR Officer,<span style="font-size: 20px;"><b> </b></span></span><a href="https://www.facebook.com/UnistECE/"><span style="color:#9999ff;">ECE Student Council</span></a><font color="#a9a9a9">&nbsp;</font><span style="color:#696969;">@ UNIST</span></b></span></p>
+
+<p align="left"><font color="#a9a9a9"><span style="font-size: 20px;">2017.03&nbsp;- 2019.02</span></font><br />
+<span style="color:#696969;"><span style="font-size: 20px;"><b>Advisor, Global Student Residental Advisor @ UNIST</b></span></span></p>
+
+<p><font color="#a9a9a9"><span style="font-size: 20px;">2017.12&nbsp;- 2018.03</span></font><br />
+<span style="font-size: 20px;"><strong><span style="color: rgb(105, 105, 105);">Kitchen Job,&nbsp;</span><a href="http://whic.mofa.go.kr/eng/"><span style="color: rgb(153, 153, 255);">Working Holiday</span></a></strong></span><span style="font-size: 20px;"><strong><font color="#9999ff">&nbsp;</font><span style="color: rgb(105, 105, 105);">in Sydney, Australia</span></strong></span></p>
+
+<p>&nbsp;</p>
+</body>
+</html>
+
