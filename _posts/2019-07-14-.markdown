@@ -58,7 +58,7 @@ Received an award of 500,000 KWR</p>
 <span style="color:#696969;"><span style="font-size: 20px;"><strong>Excellence Award, 2018 Startup Summer Camp BM Pitching Contest</strong></span></span></p>
 
 
-<p style="border-left: 0.3em solid #EAEAEA; padding: 0.5em;">Awarded by Ulsan University LINC+<br />
+<p style="border-left: 0.3em solid #EAEAEA; padding: 0.5em;">Awarded by Ulsan University LINC<br />
 Topic: &quot;Power Bank Sharing Service in Bus Station&quot;<br />
 Received an award of 1,000,000 KWR</p>
 
