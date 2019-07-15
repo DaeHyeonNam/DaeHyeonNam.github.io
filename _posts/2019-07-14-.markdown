@@ -20,10 +20,12 @@ layout: post
 <p align="left"><span style="color: #696969;"><span style="font-size: 36px;"><strong>Research Experience</strong></span></span></p>
 
 <p align="left"><span style="font-size:22px;"><span style="color: #a9a9a9;">2016.06&nbsp;- 2016.12</span><br />
-<strong><span style="color: #696969;">Intern,&nbsp;</span><span style="font-family: Roboto, 'Helvetica Neue', sans-serif; text-align: justify; background-color: #ffffff;"><span style="color: #696969;">High-performance Visual Computing Lab(</span><a href="http://hvcl.unist.ac.kr/"><span style="color: #9999ff;">HVCL</span></a><span style="color: #696969;">) @ UNIST</span></span></strong><span style="color: #696969;">&nbsp;</span></span></p>
+<strong><span style="color: #696969;">Intern,&nbsp;</span><span style="font-family: Roboto, 'Helvetica Neue', sans-serif; text-align: justify; background-color: #ffffff;"><span style="color: #696969;">High-performance Visual Computing Lab(</span><a href="http://hvcl.unist.ac.kr/"><span style="color: #9999ff;">HVCL</span></a><span style="color: #696969;">) @ UNIST</span></span></strong><span style="color: #696969;">&nbsp;</span></span><br />
+<span style="font-size: 16px;">Calculate the&nbsp;molphological features&nbsp;with 12,000 zebrafish brain sections</span></p>
 
 <p align="left"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.03&nbsp;- 2019.06</span><br />
-<span style="color: #696969;"><strong>UIRP, Brain Computer Interface Lab(</strong></span><strong><a href="http://bci.unist.ac.kr/"><span style="color: #9999ff;">BCI</span></a><span style="color: #696969;">) @ UNIST</span></strong></span></p>
+<span style="color: #696969;"><strong>UIRP, Brain Computer Interface Lab(</strong></span><strong><a href="http://bci.unist.ac.kr/"><span style="color: #9999ff;">BCI</span></a><span style="color: #696969;">) @ UNIST</span></strong></span><br />
+<span style="font-size: 16px;">Build real time vowel imagery decoding system toward silent speech BCI using convolutional neural network with EEG</span></p>
 
 <p align="left">&nbsp;</p>
 
@@ -93,4 +95,3 @@ Received an award of 1,500,000 KWR</span></p>
 <p>&nbsp;</p>
 </body>
 </html>
-
