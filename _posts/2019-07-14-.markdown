@@ -21,11 +21,11 @@ layout: post
 
 <p align="left"><span style="font-size:22px;"><span style="color: #a9a9a9;">2016.06&nbsp;- 2016.12</span><br />
 <strong><span style="color: #696969;">Intern,&nbsp;</span><span style="font-family: Roboto, 'Helvetica Neue', sans-serif; text-align: justify; background-color: #ffffff;"><span style="color: #696969;">High-performance Visual Computing Lab(</span><a href="http://hvcl.unist.ac.kr/"><span style="color: #9999ff;">HVCL</span></a><span style="color: #696969;">) @ UNIST</span></span></strong><span style="color: #696969;">&nbsp;</span></span><br />
-<span style="font-size: 16px;">Calculate the&nbsp;molphological features&nbsp;with 12,000 zebrafish brain sections</span></p>
+<span style="font-size:18px;">Calculate the&nbsp;molphological features&nbsp;with 12,000 zebrafish brain sections</span></p>
 
 <p align="left"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.03&nbsp;- 2019.06</span><br />
 <span style="color: #696969;"><strong>UIRP, Brain Computer Interface Lab(</strong></span><strong><a href="http://bci.unist.ac.kr/"><span style="color: #9999ff;">BCI</span></a><span style="color: #696969;">) @ UNIST</span></strong></span><br />
-<span style="font-size: 16px;">Build real time vowel imagery decoding system toward silent speech BCI using convolutional neural network with EEG</span></p>
+<span style="font-size:18px;">Build real time vowel imagery decoding system toward silent speech BCI using convolutional neural network with EEG</span></p>
 
 <p align="left">&nbsp;</p>
 
@@ -49,30 +49,30 @@ layout: post
 
 <p align="left"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.09</span><br />
 <span style="color: #696969;"><strong>Silver Prize, 2017 Nobel Prize Exploration Conference</strong></span></span><br />
-<span style="font-size:16px;">Awarded by Gwacheon National Science Museum<br />
+<span style="font-size:18px;">Awarded by Gwacheon National Science Museum<br />
 Topic: &quot;Prediction and Prevention of Cancer Metastasis&nbsp;through Graphene and Micelle&nbsp;Haemostatic Complex&quot;&nbsp;<br />
 Received an award of 500,000 KWR</span></p>
 
 <p align="left"><span style="font-size:22px;"><span style="color: #a9a9a9;">2018.08</span><br />
 <span style="color: #696969;"><strong>Excellence Award, 2018 Startup Summer Camp BM Pitching Contest</strong></span></span><br />
-<span style="font-size:16px;">Awarded by Ulsan University LINC+<br />
+<span style="font-size:18px;">Awarded by Ulsan University LINC+<br />
 Topic: &quot;Power Bank Sharing Service in Bus Station&quot;<br />
 Received an award of 1,000,000 KWR</span></p>
 
 <p align="left"><span style="font-size:22px;"><span style="color: #a9a9a9;">2018.09</span><br />
 <span style="color: #696969;"><strong>Consolation Prize,&nbsp;5th Tomorrow Busan Idea Contest</strong></span></span><br />
-<span style="font-size:16px;">Awarded by Future Construction Forum Corporation<br />
+<span style="font-size:18px;">Awarded by Future Construction Forum Corporation<br />
 Topic: &quot;Smart Marine City throungh Research and Implementation of Marine IoT&quot;<br />
 Received an award of 300,000 KWR</span></p>
 
 <p align="left"><span style="font-size:22px;"><span style="color: #a9a9a9;">2018.11</span><br />
 <span style="color: #696969;"><strong>The Best&nbsp;Prize, UNIST X Naver D2SF X Like Lion Hackathon</strong></span></span><br />
-<span style="font-size:16px;">Awarded by Like Lion Corportation<br />
+<span style="font-size:18px;">Awarded by Like Lion Corportation<br />
 Topic: &quot;Fire Escape Guidance Lamp with Shortest Path&nbsp;Algorithm&quot;<br />
 Received an award of 1,500,000 KWR</span></p>
 
 <p><span style="font-size:22px;"><span style="color: #696969;"><strong>Semester Award(학기 포상)</strong></span></span><br />
-<span style="font-size:16px;">&nbsp;- UNIST 2017 1st Semester Award<br />
+<span style="font-size:18px;">&nbsp;- UNIST 2017 1st Semester Award<br />
 &nbsp;- UNIST 2017 2nd Semester Award<br />
 &nbsp;- UNIST 2018 2nd Semester Award</span></p>
 
