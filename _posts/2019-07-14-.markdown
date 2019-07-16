@@ -51,6 +51,10 @@ layout: post
 
 <p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><strong><span style="color: #696969;"><span style="font-size: 36px;">Awards</span></span></strong></span></p>
 
+<p align="left"><span style="font-family: tahoma, geneva, sans-serif; font-size: 22px;"><span style="color: rgb(169, 169, 169);">2016.07</span><br />
+<span style="color: rgb(105, 105, 105);"><strong>Certification, Cross-Country Bicycle&nbsp;Journey</strong></span></span><br style="font-family: tahoma, geneva, sans-serif;" />
+<span style="background-color: rgb(253, 253, 253); font-size: 18px;"><font face="tahoma, geneva, sans-serif">Travel across the country by bicycle from Busan to Incheon(630km)</font></span><img class="fit image" src="/images/국토종주.jpg" style="max-width: 700px; height: auto;" /></p>
+
 <p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.09</span><br />
 <span style="color: #696969;"><strong>Silver Prize, 2017 Nobel Prize Exploration Conference</strong></span></span><br />
 <span style="font-size:18px;">Awarded by Gwacheon National Science Museum<br />
