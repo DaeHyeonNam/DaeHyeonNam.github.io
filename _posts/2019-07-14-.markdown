@@ -62,7 +62,7 @@ layout: post
 <p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.09</span><br />
 <span style="color: #696969;"><strong>Silver Prize, 2017 Nobel Prize Exploration Conference</strong></span></span><br />
 <span style="font-size:18px;">Awarded by Gwacheon National Science Museum<br />
-Topic: &quot;Prediction and Prevention of Cancer Metastasis&nbsp;through Graphene and Micelle&nbsp;Haemostatic Complex&quot;&nbsp;<br />
+Topic: &quot;Prediction and Prevention of Cancer Metastasis&nbsp;using Graphene and Micelle&nbsp;Haemostatic Complex&quot;&nbsp;<br />
 Received an award of 500,000 KWR</span></span></p>
 
 <p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2018.08</span><br />
@@ -86,7 +86,7 @@ Received an award of 1,500,000 KWR</span></span> <img class="fit image" src="/im
 <p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.12</span><br />
 <span style="color: #696969;"><strong>Innovation Awards,&nbsp;Qualcomm - Kaist, Inovation Awards 2019</strong></span></span><br />
 <span style="font-size:18px;">Awarded by TBU<br />
-Topic: &quot;Recognizing Emotion from Korean speech.&quot;<br />
+Topic: &quot;Recognizing emotion from Korean speech.&quot;<br />
 Received an award of 5,000,000 KWR</span></span></p>
 
 <p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #696969;"><strong>Semester Award(학기 포상)</strong></span></span><br />
