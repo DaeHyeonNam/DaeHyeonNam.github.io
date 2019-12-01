@@ -27,6 +27,10 @@ layout: post
 <span style="color: #696969;"><strong>UIRP, Brain Computer Interface Lab(</strong></span><strong><a href="http://bci.unist.ac.kr/"><span style="color: #9999ff;">BCI</span></a><span style="color: #696969;">) @ UNIST</span></strong></span><br />
 <span style="font-size:18px;">Build real time vowel imagery decoding system toward silent speech BCI using convolutional neural network with EEG</span></span></p>
 
+<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.09&nbsp;- 2019.12</span><br />
+<span style="color: #696969;"><strong>Intern, Lab for Brain and Machine Intelligence(</strong></span><strong><a href="https://aibrain.kaist.ac.kr"><span style="color: #9999ff;">AI Brain</span></a><span style="color: #696969;">) @ KAIST</span></strong></span><br />
+<span style="font-size:18px;">Build deep learning model for predicting state change(Onset Detection)</span></span></p>
+
 <p align="left">&nbsp;</p>
 
 <p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><strong><span style="color: #696969;"><span style="font-size: 36px;">Work Experience</span></span></strong></span></p>
