@@ -133,10 +133,6 @@ Received an award of 5,000,000 KWR</span></span></p>
 <span style="color: rgb(105, 105, 105);"><strong>Korean Speech Emotion Recognition</strong></span></span></span><br />
 <a href="https://github.com/DaeHyeonNam/QAIST"><font color="#9999ff" face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">code</span></font></a><img class="fit image" src="/images/structure.png" style="max-width: 700px; height: auto;" /></p>
 
-<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.11</span><br />
-<span style="color: rgb(105, 105, 105);"><strong>Korean Speech Emotion Recognition</strong></span></span></span><br />
-<span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 18px;"><a href="https://www.youtube.com/watch?v=ZDRmkL-U-lo"><span style="color:#9999ff;">demo</span></a></span><span style="color: rgb(153, 153, 255);"><span style="font-size: 18px;">::</span></span><span style="font-size: 18px;"><a href="https://github.com/DaeHyeonNam/DogForever"><span style="color:#9999ff;">code</span></a></span></span><img class="fit image" src="/images/DogForever.jpg" style="max-width: 700px; height: auto;" /></p>
-
 <p><span style="font-size:18px;"><font color="#a9a9a9" face="tahoma, geneva, sans-serif">For more projects, please visit my </font><font face="tahoma, geneva, sans-serif"><a href="https://github.com/DaeHyeonNam/"><span style="color:#9999ff;">github page</span></a></font></span></p>
 </body>
 </html>
