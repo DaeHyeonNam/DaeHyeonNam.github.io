@@ -31,6 +31,7 @@ layout: post
 <span style="color: #696969;"><strong>Intern, Lab for Brain and Machine Intelligence(</strong></span><strong><a href="https://aibrain.kaist.ac.kr"><span style="color: #9999ff;">AI Brain</span></a><span style="color: #696969;">) @ KAIST</span></strong></span><br />
 <span style="font-size:18px;">Build deep learning model for predicting brain state change(Onset Detection)</span></span></p>
 
+
 <p align="left">&nbsp;</p>
 
 <p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><strong><span style="color: #696969;"><span style="font-size: 36px;">Work Experience</span></span></strong></span></p>
@@ -84,16 +85,16 @@ Topic: &quot;Fire Escape Guidance Lamp with Shortest Path&nbsp;Algorithm&quot;<b
 Received an award of 1,500,000 KWR</span></span> <img class="fit image" src="/images/TheBestPrize.jpg" style="max-width: 700px; height: auto;" /></p>
 
 <p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.12</span><br />
-<span style="color: #696969;"><strong>Innovation Awards,&nbsp;Qualcomm - Kaist, Inovation Awards 2019</strong></span></span><br />
-<span style="font-size:18px;">Awarded by TBU<br />
+<span style="color: #696969;"><strong>Qualcomm-KAIST Innovation Awards 2019</strong></span></span><br />
+<span style="font-size:18px;">Awarded by Soo-Young Lee, Chair of KAIST School of Electrical Engineering<br />
 Topic: &quot;Recognizing emotion from Korean speech.&quot;<br />
-Received an award of 5,000,000 KWR</span></span></p>
+Received an award of 5,000,000 KWR</span></span><img class="fit image" src="/images/qaist.jpg" style="max-width: 700px; height: auto;" /></p>
 
 <p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #696969;"><strong>Semester Award(학기 포상)</strong></span></span><br />
 <span style="font-size:18px;">&nbsp;- UNIST 2017 1st Semester Award<br />
 &nbsp;- UNIST 2017 2nd Semester Award<br />
 &nbsp;- UNIST 2018 2nd Semester Award</span></span><br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" />
-<span style="font-family: tahoma, geneva, sans-serif; font-size: 18px;">&nbsp;- UNIST 2019&nbsp;1st&nbsp;Semester Award</span></p>
+</p>
 
 <p>&nbsp;</p>
 
