@@ -31,9 +31,9 @@ layout: post
 <span style="color: #696969;"><strong>Intern, Lab for Brain and Machine Intelligence(</strong></span><strong><a href="https://aibrain.kaist.ac.kr"><span style="color: #9999ff;">AI Brain</span></a><span style="color: #696969;">) @ KAIST</span></strong></span><br />
 <span style="font-size:18px;">Build deep learning model for predicting brain state change(Onset Detection)</span></span></p>
 
-<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.12&nbsp;-</span><br />
-<span style="color: #696969;"><strong>Intern under the supervision of (</strong></span><strong><a href="https://aibrain.kaist.ac.kr"><span style="color: #9999ff;">Prof.Seunghoon Hong</span></a><span style="color: #696969;">), @ KAIST</span></strong></span><br />
-<span style="font-size:18px;">Build deep learning model for predicting brain state change(Onset Detection)</span></span></p>
+<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.12&nbsp;- Current</span><br />
+<span style="color: #696969;"><strong>Intern under the supervision of </strong></span><strong><a href="http://cvlab.postech.ac.kr/~maga33/"><span style="color: #9999ff;">Prof.Seunghoon Hong</span></a><span style="color: #696969;">, @ KAIST</span></strong></span><br />
+<span style="font-size:18px;">Currently studying computer vision and implementing DL structure of the papers</span></span></p>
 
 
 <p align="left">&nbsp;</p>
