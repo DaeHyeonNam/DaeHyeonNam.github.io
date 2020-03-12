@@ -1,4 +1,3 @@
---- layout: post ---
 <html>
 
 <head>
@@ -188,8 +187,6 @@
 	</p>
 	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.03</span>
 		<br /> <span style="color: rgb(105, 105, 105);"><strong>English Study Alarm</strong></span></span>
-		</span>
-		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Become a mentor for international freshmen, help them adjust to school, and travel around korea together</span></font> 
 		</span>
 		<br /> <a href="https://www.youtube.com/watch?v=JDYt0-E92vc&t=6s"><font color="#9999ff" face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">demo</span></font></a>
 		<img class="fit image" src="/images/studyAlarmLogo.jpg" style="max-width: 700px; height: auto;" />
