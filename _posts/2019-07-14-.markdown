@@ -40,7 +40,6 @@
 		</span>
 		<br /> <span style="font-size:18px;">Build deep learning model for predicting brain state change(Onset Detection)</span></span>
 	</p>
-	</p>
 	<p align="left">&nbsp;</p>
 	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><strong><span style="color: #696969;"><span style="font-size: 36px;">Work Experience</span></span>
 		</strong>
