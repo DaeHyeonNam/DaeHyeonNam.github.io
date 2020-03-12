@@ -169,7 +169,9 @@
 		<br /> <span style="color: rgb(105, 105, 105);"><strong>Prject-VCR (Use your own hands and phone for VR)</strong></span></span>
 		</span>
 		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Built using Chainer and IPWebcam</span></font> 
-		<br /> <a href="https://youtu.be/tNC8uetGz4I"><font color="#9999ff" face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">demo</span></font></a><span style="font-size: 18px;"><span style="color:#A9A9A9;">:: </span><a href="https://github.com/AsimF/project-vcr"><span style="color:#9999ff;">code</span></a>
+		<br /> <span style="font-family: tahoma, geneva, sans-serif;"><a href="https://youtu.be/tNC8uetGz4I"><span style="color:#9999ff;"><span style="font-size: 18px;">demo</span></span>
+		</a><span style="font-size: 18px;"><span style="color:#A9A9A9;">:: </span><a href="https://github.com/AsimF/project-vcr"><span style="color:#9999ff;">code</span></a>
+		</span>
 		</span>
 		<img class="fit image" src="/images/project_vcr.jpg" style="max-width: 700px; height: auto;" />
 	</p>
