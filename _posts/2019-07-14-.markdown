@@ -172,7 +172,7 @@
 		<br /> <a href="https://youtu.be/tNC8uetGz4I"><font color="#9999ff" face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">demo</span></font></a><span style="font-size: 18px;"><span style="color:#A9A9A9;">:: </span><a href="https://github.com/AsimF/project-vcr"><span style="color:#9999ff;">code</span></a>
 		</span>
 		</span>
-		<img class="fit image" src="/images/project_vcr.png" style="max-width: 700px; height: auto;" />
+		<img class="fit image" src="/images/project_vcr.jpg" style="max-width: 700px; height: auto;" />
 	</p>
 	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.11</span>
 		<br /> <span style="color: rgb(105, 105, 105);"><strong>Korean Speech Emotion Recognition</strong></span></span>
