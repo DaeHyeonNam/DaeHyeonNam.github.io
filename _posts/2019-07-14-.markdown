@@ -142,6 +142,7 @@
 	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color:#A9A9A9;">2018.09&nbsp;- 2018.11</span>
 		<br /> <span style="color: rgb(105, 105, 105);"><strong>Fire Escape Guidance Lamp with Shortest Path Algorithm</strong></span></span>
 		</span>
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Escaping game developed by using Unity</span></font> 
 		<br /> <span style="font-family: tahoma, geneva, sans-serif;"><a href="https://www.youtube.com/watch?v=cMXFvVglAk8&amp;feature=youtu.be"><span style="color:#9999ff;"><span style="font-size: 18px;">demo</span></span>
 		</a><span style="font-size: 18px;"><span style="color:#A9A9A9;">::</span><a href="https://github.com/DaeHyeonNam/FireEscapeGuidance"><span style="color:#9999ff;">code</span></a>
 		</span>
@@ -151,38 +152,30 @@
 	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.06- 2019.07</span>
 		<br /> <span style="color: rgb(105, 105, 105);"><strong>Stock Manager GUI</strong></span></span>
 		</span>
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">GUI program using PyQt</span></font> 
 		<br /> <a href="https://github.com/DaeHyeonNam/StockManager"><font color="#9999ff" face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">code</span></font></a>
 		<img class="fit image" src="/images/Stock Manager.jpg" style="max-width: 700px; height: auto;" />
 	</p>
 	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.03 - 2019.06</span>
 		<br /> <span style="color: rgb(105, 105, 105);"><strong>Real Time Vowel Imagery Decoding System toward Silent Speech BCI</strong></span></span>
 		</span>
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Getting and preprocessing EEG data using Matlab and analysis using tensorflow</span></font> 
 		<br /> <span style="font-family: tahoma, geneva, sans-serif;"><a href="https://github.com/DaeHyeonNam/RealTimeEEGVowelPrediction"><span style="color: rgb(153, 153, 255);"><span style="font-size: 18px;">code</span></span>
 		</a>
 		</span>
 		<img class="fit image" src="/images/EEG.jpg" style="max-width: 700px; height: auto;" />
 	</p>
-	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.06</span>
-		<br /> <span style="color: rgb(105, 105, 105);"><strong>Dog Forever</strong></span></span>
-		</span>
-		<br /> <span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 18px;"><a href="https://www.youtube.com/watch?v=ZDRmkL-U-lo"><span style="color:#9999ff;">demo</span>
-		</a>
-		</span><span style="color: rgb(153, 153, 255);"><span style="font-size: 18px;">::</span></span><span style="font-size: 18px;"><a href="https://github.com/DaeHyeonNam/DogForever"><span style="color:#9999ff;">code</span>
-		</a>
-		</span>
-		</span>
-		<img class="fit image" src="/images/DogForever.jpg" style="max-width: 700px; height: auto;" />
-	</p>
 	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.11</span>
 		<br /> <span style="color: rgb(105, 105, 105);"><strong>Korean Speech Emotion Recognition</strong></span></span>
 		</span>
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Built using Tensorflow and FastAI.</span></font> 
 		<br /> <a href="https://github.com/DaeHyeonNam/QAIST"><font color="#9999ff" face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">code</span></font></a>
 		<img class="fit image" src="/images/structure.png" style="max-width: 700px; height: auto;" />
 	</p>
-	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2020.0</span>
+	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2020.02</span>
 		<br /> <span style="color: rgb(105, 105, 105);"><strong>Smart Sand Bag</strong></span></span>
 		</span>
-		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Hardware: Arduino with load cell sensors and bluetooth module<br>Software: Android studio using java </span></font> 
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Hardware: Arduino with load cell sensor and bluetooth module<br>Software: Android studio using java </span></font> 
 		<br /> <a href="https://youtu.be/0h97u53SD6U"><font color="#9999ff" face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">demo</span></font></a>
 		<img class="fit image" src="/images/smartSandBag.jpg" style="max-width: 700px; height: auto;" />
 	</p>
