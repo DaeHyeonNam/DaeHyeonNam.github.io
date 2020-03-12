@@ -144,7 +144,7 @@
 		</span>
 		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Escaping game developed by using Unity</span></font> 
 		<br /> <span style="font-family: tahoma, geneva, sans-serif;"><a href="https://www.youtube.com/watch?v=cMXFvVglAk8&amp;feature=youtu.be"><span style="color:#9999ff;"><span style="font-size: 18px;">demo</span></span>
-		</a><span style="font-size: 18px;"><span style="color:#A9A9A9;">::</span><a href="https://github.com/DaeHyeonNam/FireEscapeGuidance"><span style="color:#9999ff;">code</span></a>
+		</a><span style="font-size: 18px;"><span style="color:#A9A9A9;">:: </span><a href="https://github.com/DaeHyeonNam/FireEscapeGuidance"><span style="color:#9999ff;">code</span></a>
 		</span>
 		</span>
 		<img class="fit image" src="/images/FireEscapeGuidance.JPG" style="max-width: 700px; height: auto;" />
@@ -159,16 +159,25 @@
 	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.03 - 2019.06</span>
 		<br /> <span style="color: rgb(105, 105, 105);"><strong>Real Time Vowel Imagery Decoding System toward Silent Speech BCI</strong></span></span>
 		</span>
-		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Getting and preprocessing EEG data using Matlab and analysis using tensorflow</span></font> 
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Getting and preprocessing EEG data using Matlab and analysis using TensorFlow</span></font> 
 		<br /> <span style="font-family: tahoma, geneva, sans-serif;"><a href="https://github.com/DaeHyeonNam/RealTimeEEGVowelPrediction"><span style="color: rgb(153, 153, 255);"><span style="font-size: 18px;">code</span></span>
 		</a>
 		</span>
 		<img class="fit image" src="/images/EEG.jpg" style="max-width: 700px; height: auto;" />
 	</p>
+	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.09 - 2019.12</span>
+		<br /> <span style="color: rgb(105, 105, 105);"><strong>Prject-VCR (Use your own hands and phone for VR)</strong></span></span>
+		</span>
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Built using Chainer and IPWebcam</span></font> 
+		<br /> <a href="https://youtu.be/tNC8uetGz4I"><font color="#9999ff" face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">demo</span></font></a><span style="font-size: 18px;"><span style="color:#A9A9A9;">:: </span><a href="https://github.com/AsimF/project-vcr"><span style="color:#9999ff;">code</span></a>
+		</span>
+		</span>
+		<img class="fit image" src="/images/project_vcr.png" style="max-width: 700px; height: auto;" />
+	</p>
 	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.11</span>
 		<br /> <span style="color: rgb(105, 105, 105);"><strong>Korean Speech Emotion Recognition</strong></span></span>
 		</span>
-		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Built using Tensorflow and FastAI.</span></font> 
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Built using TensorFlow and FastAI</span></font> 
 		<br /> <a href="https://github.com/DaeHyeonNam/QAIST"><font color="#9999ff" face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">code</span></font></a>
 		<img class="fit image" src="/images/structure.png" style="max-width: 700px; height: auto;" />
 	</p>
@@ -182,7 +191,7 @@
 	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.03</span>
 		<br /> <span style="color: rgb(105, 105, 105);"><strong>English Study Alarm</strong></span></span>
 		</span>
-		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Android App using Flutter(dart).</span></font> 
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Android App using Flutter(dart)</span></font> 
 		<br /> <a href="https://www.youtube.com/watch?v=JDYt0-E92vc&t=6s"><font color="#9999ff" face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">demo</span></font></a>
 		<img class="fit image" src="/images/studyAlarmLogo.jpg" style="max-width: 700px; height: auto;" />
 	</p>
