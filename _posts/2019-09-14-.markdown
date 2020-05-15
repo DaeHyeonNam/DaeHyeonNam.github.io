@@ -1,0 +1,203 @@
+<html>
+
+<head>
+	<title></title>
+</head>
+
+<body>
+	<p><span style="font-family:tahoma,geneva,sans-serif;"><strong><span style="color: #696969;"><span style="font-size: 36px;">Education</span></span>
+		</strong>
+		</span>
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2016.03 -&nbsp;Current</span>
+		<br /> <span style="color: #696969;"><strong>B.S. candidate in</strong></span><span style="color: #a9a9a9;">&nbsp;</span><strong><a href="http://ece.unist.ac.kr/"><span style="color: #9999ff;">Electrical and Computer Engineering</span></a><span style="color: #9999ff;">&nbsp;</span></strong>
+		<br /> <strong><a href="http://unist.ac.kr"><span style="color: #9999ff;">UNIST</span></a></strong><span style="color: #9999ff;"><strong>&nbsp;</strong></span><span style="color: #696969;"><strong>(Ulsan National Institute of Science and Technology)</strong>, Ulsan, Korea</span></span>
+		</span>
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2013.03 -&nbsp;2016.02</span>
+		<br /> <span style="color: #696969;"><strong>HaeUnDae High School</strong>, Busan, Korea</span></span>
+		</span>
+	</p>
+	<p align="left">&nbsp;</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="color: #696969;"><span style="font-size: 36px;"><strong>Research Experience</strong></span></span>
+		</span>
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.06&nbsp;- 2017.12</span>
+		<br /> <span style="color: #696969;"><strong>Intern, High-performance Visual Computing Lab(</strong></span><strong><a href="http://hvcl.unist.ac.kr/"><span style="color: #9999ff;">HVCL</span></a><span style="color: #696969;">) @ UNIST</span></strong>
+		</span>
+		<br /> <span style="font-size:18px;">Calculate the&nbsp;morphological features&nbsp;with 12,000 zebrafish brain sections</span></span>
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.03&nbsp;- 2019.06</span>
+		<br /> <span style="color: #696969;"><strong>UIRP, Brain Computer Interface Lab(</strong></span><strong><a href="http://bci.unist.ac.kr/"><span style="color: #9999ff;">BCI</span></a><span style="color: #696969;">) @ UNIST</span></strong>
+		</span>
+		<br /> <span style="font-size:18px;">Build real time vowel imagery decoding system toward silent speech BCI using convolutional neural network with EEG</span></span>
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.09&nbsp;- 2019.12</span>
+		<br /> <span style="color: #696969;"><strong>Intern, Lab for Brain and Machine Intelligence(</strong></span><strong><a href="https://aibrain.kaist.ac.kr"><span style="color: #9999ff;">AI Brain</span></a><span style="color: #696969;">) @ KAIST</span></strong>
+		</span>
+		<br /> <span style="font-size:18px;">Build deep learning model for predicting brain state change(Onset Detection)</span></span>
+	</p>
+	<p align="left">&nbsp;</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><strong><span style="color: #696969;"><span style="font-size: 36px;">Work Experience</span></span>
+		</strong>
+		</span>
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.09&nbsp;- 2017.12</span>
+		<br /> <strong><span style="color: #696969;">Teaching Assistant, Object Oriented Programming Course @ UNIST</span></strong>
+		</span>
+		</span>
+		<br style="font-family: tahoma, geneva, sans-serif;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Answer questions and supervise exams</span></font>
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.12&nbsp;- 2018.03</span>
+		<br /> <strong><span style="color: #696969;">Kitchen Job, </span><a href="http://whic.mofa.go.kr/eng/"><span style="color: #9999ff;">Working Holiday</span></a><span style="color: #9999ff;">&nbsp;</span><span style="color: #696969;">in Sydney, Australia</span></strong>
+		</span>
+		</span>
+		<br style="font-family: tahoma, geneva, sans-serif;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Make sandwich at the brunch cafe :)</span></font>
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: rgb(169, 169, 169);">2018.09&nbsp;- 2018.12</span>
+		<br /> <strong><span style="color: #696969;">Teaching Assistant, Data Structure Course&nbsp;@ UNIST</span></strong>
+		</span>
+		<br /> <span style="font-size: 18px;">Build grading system using shell script and make assignments</span></span>
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.03 - 2019.06</span>
+		<br /> <strong><span style="color: #696969;">Intern,</span><span style="color: #808080;">&nbsp;</span><a href="http://alphaprime.co.kr"><span style="color: #9999ff;">AlphaPrime</span></a><span style="color: #696969;">&nbsp;(IT Financial&nbsp;Company)</span></strong>
+		</span>
+		<br /> <span style="font-size: 18px;">Build algorithm backtesting service using AWS lambda, and stock trading program</span></span>
+	</p>
+	<p align="left">&nbsp;</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><strong><span style="color: #696969;"><span style="font-size: 36px;">Awards</span></span>
+		</strong>
+		</span>
+	</p>
+	<p align="left"><span style="font-family: tahoma, geneva, sans-serif; font-size: 22px;"><span style="color: rgb(169, 169, 169);">2016.07</span>
+		<br /> <span style="color: rgb(105, 105, 105);"><strong>Certification, Cross-Country Bicycle&nbsp;Journey</strong></span></span>
+		<br style="font-family: tahoma, geneva, sans-serif;" /> <span style="background-color: rgb(253, 253, 253); font-size: 18px;"><font face="tahoma, geneva, sans-serif">Travel across the country by bicycle from Busan to Incheon(630km)</font></span>
+		<img class="fit image" src="/images/국토종주.jpg" style="max-width: 700px; height: auto;" />
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.09</span>
+		<br /> <span style="color: #696969;"><strong>Silver Prize, 2017 Nobel Prize Exploration Conference</strong></span></span>
+		<br /> <span style="font-size:18px;">Awarded by Gwacheon National Science Museum<br />
+         Topic: &quot;Prediction and Prevention of Cancer Metastasis&nbsp;using Graphene and Micelle&nbsp;Haemostatic Complex&quot;&nbsp;<br />
+         Received an award of 500,000 KWR</span></span>
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2018.08</span>
+		<br /> <span style="color: #696969;"><strong>Excellence Award, 2018 Startup Summer Camp BM Pitching Contest</strong></span></span>
+		<br /> <span style="font-size:18px;">Awarded by Ulsan University LINC+<br />
+         Topic: &quot;Power Bank Sharing Service in Bus Station&quot;<br />
+         Received an award of 1,000,000 KWR</span></span>
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2018.09</span>
+		<br /> <span style="color: #696969;"><strong>Consolation Prize,&nbsp;5th Tomorrow Busan Idea Contest</strong></span></span>
+		<br /> <span style="font-size:18px;">Awarded by Future Construction Forum Corporation<br />
+         Topic: &quot;Smart Marine City throungh Research and Implementation of Marine IoT&quot;<br />
+         Received an award of 300,000 KWR</span></span>
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2018.11</span>
+		<br /> <span style="color: #696969;"><strong>The Best&nbsp;Prize, UNIST X Naver D2SF X Like Lion Hackathon</strong></span></span>
+		<br /> <span style="font-size:18px;">Awarded by Like Lion Corportation<br />
+         Topic: &quot;Fire Escape Guidance Lamp with Shortest Path&nbsp;Algorithm&quot;<br />
+         Received an award of 1,500,000 KWR</span></span>
+		<img class="fit image" src="/images/TheBestPrize.jpg" style="max-width: 700px; height: auto;" />
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.12</span>
+		<br /> <span style="color: #696969;"><a href="https://m.etnews.com/20191223000113?obj=Tzo4OiJzdGRDbGFzcyI6Mjp7czo3OiJyZWZlcmVyIjtOO3M6NzoiZm9yd2FyZCI7czoxMzoid2ViIHRvIG1vYmlsZSI7fQ%3D%3D"><strong>Qualcomm-KAIST Innovation Awards 2019</strong></a></span></span>
+		<br /> <span style="font-size:18px;">Awarded by Soo-Young Lee, Chair of KAIST School of Electrical Engineering<br />
+         Topic: &quot;Recognizing emotion from Korean speech.&quot;<br />
+         Received an award of 5,000,000 KWR</span></span>
+		<img class="fit image" src="/images/qaist.jpg" style="max-width: 700px; height: auto;" />
+	</p>
+	<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #696969;"><strong>Semester Award(학기 포상)</strong></span></span>
+		<br /> <span style="font-size:18px;">&nbsp;- UNIST 2017 1st Semester Award<br />
+         &nbsp;- UNIST 2017 2nd Semester Award<br />
+         &nbsp;- UNIST 2018 2nd Semester Award</span></span>
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" />
+	</p>
+	<p>&nbsp;</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><strong><span style="color: #696969;"><span style="font-size: 36px;">Campus Activities</span></span>
+		</strong>
+		</span>
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.03&nbsp;- 2018.02</span>
+		<br /> <strong><span style="color: #696969;">Manager, </span><a href="https://www.facebook.com/groups/326115774135063/" style="color: #9999ff;">Memory</a><span style="color: #808080;">&nbsp;</span><span style="color: #696969;">(Photograph &amp; Travel Group) @ UNIST</span></strong>
+		</span>
+		</span>
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2018.09&nbsp;- 2019.02</span>
+		<br /> <strong><span style="color: #696969;">PR Officer, </span><a href="https://www.facebook.com/UnistECE/"><span style="color: #9999ff;">ECE Student Council</span></a><span style="color: #a9a9a9;">&nbsp;</span><span style="color: #696969;">@ UNIST</span></strong>
+		</span>
+		</span>
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.03&nbsp;- 2019.02</span>
+		<br /> <span style="color: #696969;"><strong>Advisor, Global Student Residental Advisor @ UNIST</strong></span></span>
+		</span>
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Become a mentor for international freshmen, help them adjust to school, and travel around korea together</span></font> 
+		<img class="fit image" src="/images/GRAFriends.jpeg" style="max-width: 700px; height: auto;" />
+	</p>
+	<p align="left">&nbsp;</p>
+	<p align="left"><font color="#696969" face="tahoma, geneva, sans-serif"><span style="font-size: 36px;"><b>Projects</b></span></font>
+	</p>
+	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color:#A9A9A9;">2018.09&nbsp;- 2018.11</span>
+		<br /> <span style="color: rgb(105, 105, 105);"><strong>Fire Escape Guidance Lamp with Shortest Path Algorithm</strong></span></span>
+		</span>
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Escaping game developed by using Unity</span></font> 
+		<br /> <span style="font-family: tahoma, geneva, sans-serif;"><a href="https://www.youtube.com/watch?v=cMXFvVglAk8&amp;feature=youtu.be"><span style="color:#9999ff;"><span style="font-size: 18px;">demo</span></span>
+		</a><span style="font-size: 18px;"><span style="color:#A9A9A9;">:: </span><a href="https://github.com/DaeHyeonNam/FireEscapeGuidance"><span style="color:#9999ff;">code</span></a>
+		</span>
+		</span>
+		<img class="fit image" src="/images/FireEscapeGuidance.JPG" style="max-width: 700px; height: auto;" />
+	</p>
+	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.06- 2019.07</span>
+		<br /> <span style="color: rgb(105, 105, 105);"><strong>Stock Manager GUI</strong></span></span>
+		</span>
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">GUI program using PyQt</span></font> 
+		<br /> <a href="https://github.com/DaeHyeonNam/StockManager"><font color="#9999ff" face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">code</span></font></a>
+		<img class="fit image" src="/images/Stock Manager.jpg" style="max-width: 700px; height: auto;" />
+	</p>
+	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.03 - 2019.06</span>
+		<br /> <span style="color: rgb(105, 105, 105);"><strong>Real Time Vowel Imagery Decoding System toward Silent Speech BCI</strong></span></span>
+		</span>
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Getting and preprocessing EEG data using Matlab and analysis using TensorFlow</span></font> 
+		<br /> <span style="font-family: tahoma, geneva, sans-serif;"><a href="https://github.com/DaeHyeonNam/RealTimeEEGVowelPrediction"><span style="color: rgb(153, 153, 255);"><span style="font-size: 18px;">code</span></span>
+		</a>
+		</span>
+		<img class="fit image" src="/images/EEG.jpg" style="max-width: 700px; height: auto;" />
+	</p>
+	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.09 - 2019.12</span>
+		<br /> <span style="color: rgb(105, 105, 105);"><strong>Prject-VCR (Use your own hands and phone for VR)</strong></span></span>
+		</span>
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Built using Chainer and IPWebcam</span></font> 
+		<br /> <span style="font-family: tahoma, geneva, sans-serif;"><a href="https://youtu.be/tNC8uetGz4I"><span style="color:#9999ff;"><span style="font-size: 18px;">demo</span></span>
+		</a><span style="font-size: 18px;"><span style="color:#A9A9A9;">:: </span><a href="https://github.com/AsimF/project-vcr"><span style="color:#9999ff;">code</span></a>
+		</span>
+		</span>
+		<img class="fit image" src="/images/project_vcr.jpg" style="max-width: 700px; height: auto;" />
+	</p>
+	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.11</span>
+		<br /> <span style="color: rgb(105, 105, 105);"><strong>Korean Speech Emotion Recognition</strong></span></span>
+		</span>
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Built using TensorFlow and FastAI</span></font> 
+		<br /> <a href="https://github.com/DaeHyeonNam/QAIST"><font color="#9999ff" face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">code</span></font></a>
+		<img class="fit image" src="/images/structure.png" style="max-width: 700px; height: auto;" />
+	</p>
+	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2020.02</span>
+		<br /> <span style="color: rgb(105, 105, 105);"><strong>Smart Sand Bag</strong></span></span>
+		</span>
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Hardware: Arduino with load cell sensor and bluetooth module<br>Software: Android studio using java </span></font> 
+		<br /> <a href="https://youtu.be/0h97u53SD6U"><font color="#9999ff" face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">demo</span></font></a>
+		<img class="fit image" src="/images/smartSandBag.jpg" style="max-width: 700px; height: auto;" />
+	</p>
+	<p align="left"><span style="font-family: tahoma, geneva, sans-serif;"><span style="font-size: 22px;"><span style="color: rgb(169, 169, 169);">2019.03</span>
+		<br /> <span style="color: rgb(105, 105, 105);"><strong>English Study Alarm</strong></span></span>
+		</span>
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Android App using Flutter(dart)</span></font> 
+		<br /> <a href="https://www.youtube.com/watch?v=JDYt0-E92vc&t=6s"><font color="#9999ff" face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">demo</span></font></a>
+		<img class="fit image" src="/images/studyAlarmLogo.jpg" style="max-width: 700px; height: auto;" />
+	</p>
+	<p><span style="font-size:18px;"><font color="#a9a9a9" face="tahoma, geneva, sans-serif">For more projects, please visit my </font><font face="tahoma, geneva, sans-serif"><a href="https://github.com/DaeHyeonNam/"><span style="color:#9999ff;">github page</span>
+		</a>
+		</font>
+		</span>
+	</p>
+</body>
+
+</html>
