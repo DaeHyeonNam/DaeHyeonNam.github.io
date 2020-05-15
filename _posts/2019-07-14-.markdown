@@ -109,8 +109,7 @@
 	<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #696969;"><strong>Semester Award(학기 포상)</strong></span></span>
 		<br /> <span style="font-size:18px;">&nbsp;- UNIST 2017 1st Semester Award<br />
          &nbsp;- UNIST 2017 2nd Semester Award<br />
-         &nbsp;- UNIST 2018 2nd Semester Award<br />
-         &nbsp;- UNIST 2019 2nd Semester Award</span></span>
+         &nbsp;- UNIST 2018 2nd Semester Award</span></span>
 		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" />
 	</p>
 	<p>&nbsp;</p>
