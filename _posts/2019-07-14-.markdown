@@ -100,19 +100,19 @@
 		<img class="fit image" src="/images/TheBestPrize.jpg" style="max-width: 700px; height: auto;" />
 	</p>
 	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.12</span>
-		<br /> <span style="color: #696969;"><strong>Qualcomm-KAIST Innovation Awards 2019</strong></span></span>
+		<br /> <span style="color: #696969;"><a href="https://m.etnews.com/20191223000113?obj=Tzo4OiJzdGRDbGFzcyI6Mjp7czo3OiJyZWZlcmVyIjtOO3M6NzoiZm9yd2FyZCI7czoxMzoid2ViIHRvIG1vYmlsZSI7fQ%3D%3D"><strong>Qualcomm-KAIST Innovation Awards 2019</strong></a></span></span>
 		<br /> <span style="font-size:18px;">Awarded by Soo-Young Lee, Chair of KAIST School of Electrical Engineering<br />
          Topic: &quot;Recognizing emotion from Korean speech.&quot;<br />
          Received an award of 5,000,000 KWR</span></span>
 		<img class="fit image" src="/images/qaist.jpg" style="max-width: 700px; height: auto;" />
 	</p>
-	<!-- <p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.12</span>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.12</span>
 		<br /> <span style="color: #696969;"><strong><a href="https://m.etnews.com/20191223000113?obj=Tzo4OiJzdGRDbGFzcyI6Mjp7czo3OiJyZWZlcmVyIjtOO3M6NzoiZm9yd2FyZCI7czoxMzoid2ViIHRvIG1vYmlsZSI7fQ%3D%3D"><span style="color: #696969;">Qualcomm-KAIST Innovation Awards 2019</span></a></strong></span>
 		<br /> <span style="font-size:18px;">Awarded by Soo-Young Lee, Chair of KAIST School of Electrical Engineering<br />
          Topic: &quot;Recognizing emotion from Korean speech.&quot;<br />
          Received an award of 5,000,000 KWR</span></span>
 		<img class="fit image" src="/images/qaist.jpg" style="max-width: 700px; height: auto;" />
-	</p> -->
+	</p>
 	<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #696969;"><strong>Semester Award(학기 포상)</strong></span></span>
 		<br /> <span style="font-size:18px;">&nbsp;- UNIST 2017 1st Semester Award<br />
          &nbsp;- UNIST 2017 2nd Semester Award<br />
