@@ -5,19 +5,6 @@
 </head>
 
 <body>
-	<p><span style="font-family:tahoma,geneva,sans-serif;"><strong><span style="color: #696969;"><span style="font-size: 36px;">Education</span></span>
-		</strong>
-		</span>
-	</p>
-	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2016.03 -&nbsp;Current</span>
-		<br /> <span style="color: #696969;"><strong>B.S. candidate in</strong></span><span style="color: #a9a9a9;">&nbsp;</span><strong><a href="http://ece.unist.ac.kr/"><span style="color: #9999ff;">Electrical and Computer Engineering</span></a><span style="color: #9999ff;">&nbsp;</span></strong>
-		<br /> <strong><a href="http://unist.ac.kr"><span style="color: #9999ff;">UNIST</span></a></strong><span style="color: #9999ff;"><strong>&nbsp;</strong></span><span style="color: #696969;"><strong>(Ulsan National Institute of Science and Technology)</strong>, Ulsan, Korea</span></span>
-		</span>
-	</p>
-	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2013.03 -&nbsp;2016.02</span>
-		<br /> <span style="color: #696969;"><strong>HaeUnDae High School</strong>, Busan, Korea</span></span>
-		</span>
-	</p>
 	<p align="left">&nbsp;</p>
 	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="color: #696969;"><span style="font-size: 36px;"><strong>Research Experience</strong></span></span>
 		</span>
