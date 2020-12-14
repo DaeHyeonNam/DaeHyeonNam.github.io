@@ -14,8 +14,13 @@
 		<br /> <strong><a href="http://www.postech.ac.kr/"><span style="color: #9999ff;">POSTECH</span></a></strong><span style="color: #9999ff;"><strong>&nbsp;</strong></span><span style="color: #696969;"><strong>(Pohang University of Science and Technology)</strong>, Pohang, Korea</span></span>
 		</span>
 	</p> -->
-	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2016.03 -&nbsp; Current</span>
-		<br /> <span style="color: #696969;"><strong>B.S. candidate in</strong></span><span style="color: #a9a9a9;">&nbsp;</span><strong><a href="http://ece.unist.ac.kr/"><span style="color: #9999ff;">Electrical and Computer Engineering</span></a><span style="color: #9999ff;">&nbsp;</span></strong>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2021.02 -&nbsp; Current</span>
+		<br /> <span style="color: #696969;"><strong>M.S. candidate in</strong></span><span style="color: #a9a9a9;">&nbsp;</span><strong><a href="http://ece.unist.ac.kr/"><span style="color: #9999ff;">Computer Sience</span></a><span style="color: #9999ff;">&nbsp;</span></strong>
+		<br /> <strong><a href="http://postech.ac.kr"><span style="color: #9999ff;">POSTECH</span></a></strong><span style="color: #9999ff;"><strong>&nbsp;</strong></span><span style="color: #696969;"><strong>(Pohang University Of Sience and Technology)</strong>, Pohang, Korea</span></span>
+		</span>
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2016.03 -&nbsp; 2021.02</span>
+		<br /> <span style="color: #696969;"><strong>B.S. in</strong></span><span style="color: #a9a9a9;">&nbsp;</span><strong><a href="http://ece.unist.ac.kr/"><span style="color: #9999ff;">Electrical and Computer Engineering</span></a><span style="color: #9999ff;">&nbsp;</span></strong>
 		<br /> <strong><a href="http://unist.ac.kr"><span style="color: #9999ff;">UNIST</span></a></strong><span style="color: #9999ff;"><strong>&nbsp;</strong></span><span style="color: #696969;"><strong>(Ulsan National Institute of Science and Technology)</strong>, Ulsan, Korea</span></span>
 		</span>
 	</p>
@@ -30,17 +35,17 @@
 	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.06&nbsp;- 2017.12</span>
 		<br /> <span style="color: #696969;"><strong>Intern, High-performance Visual Computing Lab(</strong></span><strong><a href="http://hvcl.unist.ac.kr/"><span style="color: #9999ff;">HVCL</span></a><span style="color: #696969;">) @ UNIST</span></strong>
 		</span>
-		<br /> <span style="font-size:18px;">Calculate the&nbsp;morphological features&nbsp;with 12,000 zebrafish brain sections</span></span>
+		<br /> <span style="font-size:18px;">Calculated the&nbsp;morphological features&nbsp;with 12,000 zebrafish brain sections</span></span>
 	</p>
 	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.03&nbsp;- 2019.06</span>
 		<br /> <span style="color: #696969;"><strong>UIRP, Brain Computer Interface Lab(</strong></span><strong><a href="http://bci.unist.ac.kr/"><span style="color: #9999ff;">BCI</span></a><span style="color: #696969;">) @ UNIST</span></strong>
 		</span>
-		<br /> <span style="font-size:18px;">Build real time vowel imagery decoding system toward silent speech BCI using convolutional neural network with EEG</span></span>
+		<br /> <span style="font-size:18px;">Built real time vowel imagery decoding system toward silent speech BCI using convolutional neural network with EEG</span></span>
 	</p>
 	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.09&nbsp;- 2019.12</span>
 		<br /> <span style="color: #696969;"><strong>Intern, Lab for Brain and Machine Intelligence(</strong></span><strong><a href="https://aibrain.kaist.ac.kr"><span style="color: #9999ff;">AI Brain</span></a><span style="color: #696969;">) @ KAIST</span></strong>
 		</span>
-		<br /> <span style="font-size:18px;">Build deep learning model for predicting brain state change(Onset Detection)</span></span>
+		<br /> <span style="font-size:18px;">Built deep learning model for predicting brain state change(Onset Detection)</span></span>
 	</p>
 	<p align="left">&nbsp;</p>
 	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><strong><span style="color: #696969;"><span style="font-size: 36px;">Work Experience</span></span>
@@ -51,23 +56,27 @@
 		<br /> <strong><span style="color: #696969;">Teaching Assistant, Object Oriented Programming Course @ UNIST</span></strong>
 		</span>
 		</span>
-		<br style="font-family: tahoma, geneva, sans-serif;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Answer questions and supervise exams</span></font>
+		<br style="font-family: tahoma, geneva, sans-serif;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Answered questions and supervised exams</span></font>
 	</p>
 	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.12&nbsp;- 2018.03</span>
 		<br /> <strong><span style="color: #696969;">Kitchen Job, </span><a href="http://whic.mofa.go.kr/eng/"><span style="color: #9999ff;">Working Holiday</span></a><span style="color: #9999ff;">&nbsp;</span><span style="color: #696969;">in Sydney, Australia</span></strong>
 		</span>
 		</span>
-		<br style="font-family: tahoma, geneva, sans-serif;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Make sandwich at the brunch cafe :)</span></font>
+		<br style="font-family: tahoma, geneva, sans-serif;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Made sandwich at the brunch cafe :)</span></font>
 	</p>
 	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: rgb(169, 169, 169);">2018.09&nbsp;- 2018.12</span>
 		<br /> <strong><span style="color: #696969;">Teaching Assistant, Data Structure Course&nbsp;@ UNIST</span></strong>
 		</span>
-		<br /> <span style="font-size: 18px;">Build grading system using shell script and make assignments</span></span>
+		<br /> <span style="font-size: 18px;">Built grading system using shell script and managed assignments</span></span>
 	</p>
 	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2019.03 - 2019.06</span>
 		<br /> <strong><span style="color: #696969;">Intern,</span><span style="color: #808080;">&nbsp;</span><a href="http://alphaprime.co.kr"><span style="color: #9999ff;">AlphaPrime</span></a><span style="color: #696969;">&nbsp;(IT Financial&nbsp;Company)</span></strong>
 		</span>
-		<br /> <span style="font-size: 18px;">Build algorithm backtesting service using AWS lambda, and stock trading program</span></span>
+		<br /> <span style="font-size: 18px;">Built algorithm backtesting service using AWS lambda, and stock trading program</span></span>
+	</p>
+	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2020.06 - Current</span>
+		<br /> <strong><span style="color: #696969;">co-Founder & CTO,</span><span style="color: #808080;">&nbsp;</span><a href="http://www.asimula.com"><span style="color: #9999ff;">Asimula</span></a><span style="color: #696969;">&nbsp;(Mobile VR Entertainment Platform Company)</span></strong>
+		</span></span>
 	</p>
 	<p align="left">&nbsp;</p>
 	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><strong><span style="color: #696969;"><span style="font-size: 36px;">Awards</span></span>
@@ -76,7 +85,7 @@
 	</p>
 	<p align="left"><span style="font-family: tahoma, geneva, sans-serif; font-size: 22px;"><span style="color: rgb(169, 169, 169);">2016.07</span>
 		<br /> <span style="color: rgb(105, 105, 105);"><strong>Certification, Cross-Country Bicycle&nbsp;Journey</strong></span></span>
-		<br style="font-family: tahoma, geneva, sans-serif;" /> <span style="background-color: rgb(253, 253, 253); font-size: 18px;"><font face="tahoma, geneva, sans-serif">Travel across the country by bicycle from Busan to Incheon(630km)</font></span>
+		<br style="font-family: tahoma, geneva, sans-serif;" /> <span style="background-color: rgb(253, 253, 253); font-size: 18px;"><font face="tahoma, geneva, sans-serif">Traveled across the country by bicycle from Busan to Incheon(630km)</font></span>
 		<img class="fit image" src="/images/국토종주.jpg" style="max-width: 700px; height: auto;" />
 	</p>
 	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.09</span>
@@ -135,7 +144,7 @@
 	<p align="left"><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:22px;"><span style="color: #a9a9a9;">2017.03&nbsp;- 2019.02</span>
 		<br /> <span style="color: #696969;"><strong>Advisor, Global Student Residental Advisor @ UNIST</strong></span></span>
 		</span>
-		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Become a mentor for international freshmen, help them adjust to school, and travel around korea together</span></font> 
+		<br style="font-family: tahoma, geneva, sans-serif; font-size: 18px;" /> <font face="tahoma, geneva, sans-serif"><span style="font-size: 18px;">Worked as a mentor for international freshmen, helped them adjust to school, and traveled around korea together</span></font> 
 		<img class="fit image" src="/images/GRAFriends.jpeg" style="max-width: 700px; height: auto;" />
 	</p>
 	<p align="left">&nbsp;</p>
